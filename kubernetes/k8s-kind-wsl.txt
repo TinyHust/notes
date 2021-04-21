@@ -1,0 +1,27 @@
+## Referrer link: 
+https://mohitgoyal.co/2021/03/19/setup-local-kubernetes-cluster-with-docker-wsl2-and-kind/
+https://mohitgoyal.co/2021/03/19/setup-local-kubernetes-cluster-with-docker-wsl2-and-kind-part-2/
+https://kubernetes.io/blog/2020/05/21/wsl-docker-kubernetes-on-the-windows-desktop/
+
+## Install Linux Distro
+
+sudo visudo
+
+# Change the %sudo group to be password-less
+%sudo   ALL=(ALL:ALL) NOPASSWD: ALL
+
+# Update the repositories and list of the packages available
+sudo apt update
+# Update the system based on the packages installed > the "-y" will approve the change automatically
+sudo apt upgrade -y
+
+
+=====
+## Setup KinD on Linux Distro
+
+# Download the latest version of KinD
+curl -Lo ./kind https://github.com/kubernetes-sigs/kind/releases/download/v0.10.0/kind-linux-amd64
+# Make the binary executable
+chmod +x ./kind
+# Move the binary to your executable path
+sudo mv ./kind /usr/local/bin/
