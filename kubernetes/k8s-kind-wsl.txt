@@ -4,9 +4,7 @@ https://mohitgoyal.co/2021/03/19/setup-local-kubernetes-cluster-with-docker-wsl2
 https://kubernetes.io/blog/2020/05/21/wsl-docker-kubernetes-on-the-windows-desktop/
 
 ## Install Linux Distro
-
 sudo visudo
-
 # Change the %sudo group to be password-less
 %sudo   ALL=(ALL:ALL) NOPASSWD: ALL
 
