@@ -16,6 +16,7 @@ Referrer link:
 https://kubernetes.io/docs/tasks/tools/included/optional-kubectl-configs-bash-linux/
 
 # Source the completion script in your ~/.bashrc file:
+echo 'source /usr/share/bash-completion/bash_completion' >>~/.bashrc
 echo 'source <(kubectl completion bash)' >>~/.bashrc
 
 # Add the completion script to the /etc/bash_completion.d directory:
@@ -23,3 +24,6 @@ kubectl completion bash >/etc/bash_completion.d/kubectl
 # if an error occurs
 # -bash: /etc/bash_completion.d/kubectl: Permission denied
 kubectl completion bash |sudo tee /etc/bash_completion.d/kubectl
+
+## Usage
+Press TAB button twice

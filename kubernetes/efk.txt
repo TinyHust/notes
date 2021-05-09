@@ -1,0 +1,22 @@
+### EFK on Kubernetes
+Referrer link:
+https://www.youtube.com/watch?v=9dfNMIZjbWg
+https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/getting-started-with-logging-using-efk-on-kubernetes/ba-p/1333050
+https://github.com/HoussemDellai/EFK-Kubernetes
+
+## Elasticsearch
+# Chart: https://github.com/helm/charts/tree/master/stable/elasticsearch
+helm repo add stable https://charts.helm.sh/stable
+helm install elasticsearch stable/elasticsearch
+
+## Fluentd
+# Deploy: https://github.com/fluent/fluentd-kubernetes-daemonset/blob/master/fluentd-daemonset-elasticsearch.yaml
+# note: change FLUENT_ELASTICSEARCH_HOST as the elasticsearch service
+kubectl apply -f ./fluentd-daemonset-elasticsearch-rbac.yaml
+
+## Kibana 
+# Chart: https://github.com/helm/charts/tree/master/stable/kibana
+helm install kibana stable/kibana -f kibana-values.yaml
+
+## Simulate logs
+kubectl apply -f ./counter.yaml
