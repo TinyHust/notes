@@ -7,3 +7,4 @@ skaffold dev
 skaffold dev --no-prune=false --cache-artifacts=false
 ## file-watching on a per-artifact
 skaffold dev --trigger polling
+skaffold dev --no-prune=false --cache-artifacts=false --trigger polling

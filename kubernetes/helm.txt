@@ -40,6 +40,9 @@ helm repo add [repo_name] https://raw.githubusercontent.com/[user_name]/[git_rep
 # List all release in all namespaces
 helm ls --all-namespaces
 
+# List repo
+helm repo list
+
 
 ## Fix: WARNING: Kubernetes configuration file is group-readable. This is insecure
 # Referrer link: https://github.com/helm/helm/issues/9115
