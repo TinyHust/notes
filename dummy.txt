@@ -22,6 +22,8 @@ next
 express
 
 vim
+nano
+markdown
 
 larravel
     larravel grapql
