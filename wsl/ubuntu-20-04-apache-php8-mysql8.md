@@ -1,11 +1,15 @@
-### Apache2 / PHP 8.0 / MySQL 8.0 / phpMyAdmin 5.0.4
-Referrer link: https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-guide-to-install-a-local-web-server-ubuntu-20-04-apache-php8-y-mysql8-3bbk
+# Apache2 / PHP 8.0 / MySQL 8.0 / phpMyAdmin 5.0.4
+REF:  
+[https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-guide-to-install-a-local-web-server-ubuntu-20-04-apache-php8-y-mysql8-3bbk](https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-guide-to-install-a-local-web-server-ubuntu-20-04-apache-php8-y-mysql8-3bbk)
 
-# change to the root directory of the system with the command:
+## change to the root directory of the system with the command:
+```
 cat <<EOF >runme.sh
+```
 
-# Add (copy and paste) the "command lines" that are below.
+## Add (copy and paste) the "command lines" that are below.
 
+```
 #!/bin/bash
 apt-get update
 apt-get upgrade -y
@@ -186,18 +190,29 @@ echo "2.- In Windows 10 in the browser enter: localhost/phpmyadmin"
 echo " Enter user: your-user Enter password: your-password "
 echo " Create database, tables, define fields, queries, etc.."
 EOF
+```
 
-# Make the file executable with:
+## Make the file executable with:
+```
 chmod +x runme.sh
 ./runme.sh
+```
 
-# To set the priority of PHP files over HTML files on the Apache server:
+## To set the priority of PHP files over HTML files on the Apache server:
+```
 sudo nano /etc/apache2/mods-enabled/dir.conf
-# change:
+```
+### change:
+```
 DirectoryIndex index.html index.cgi index.pl index.php index.xhtml index.htm
-# with this:
+```
+### with this:
+```
 DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
+```
 
-# Restart the Apache server for the changes to be recognized with:
+## Restart the Apache server for the changes to be recognized with:
+```
 sudo service apache2 restart
 sudo service apache2 status
+```
