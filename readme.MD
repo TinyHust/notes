@@ -5,4 +5,5 @@
    3. [cat](./linux/cat.md)
    4. [user](./linux/user.md)
    5. [vim](./linux/vim.md)
+   6. [shell](./linux/vim.md)
 2. [kubernetes](./kubernetes/base.md)
