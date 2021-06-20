@@ -1,4 +1,4 @@
-# hi, my **DUMMY** notes :baby_chick:
+# hi, my Dummy Notes :baby_chick:
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -13,10 +13,10 @@
     <img src="dummies/avatar.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">DUMMY notes</h3>
+  <h3 align="center">Dummy Notes</h3>
 
   <p align="center">
-    A dummy notes!
+    Dummy Notes!
     <br />
     <a href="https://github.com/TinyHust/notes"><strong>Explore the notes »</strong></a>
     <br />
@@ -29,7 +29,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open="close">
   <summary>Table of Contents</summary>
 
   - [Welcome to Dummy Notes!](#welcome-to-dummy-notes!)
@@ -39,7 +39,7 @@
 
 <!-- At a glance -->
 ## Welcome to Dummy Notes!
-_where I make notes what `I know` or don't._
+_where I make notes what `I know` or **don't**._
 <!-- At a glance -->
 ### At a Glance
 * PHP
