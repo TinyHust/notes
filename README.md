@@ -1,4 +1,4 @@
-# hello kitty, my **DUMMY** notes :baby_chick:
+# hi, my **DUMMY** notes :baby_chick:
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -31,20 +31,15 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#welcome-to-dummy-notes!">Welcome to Dummy Notes!</a>
-      <ul>
-        <li><a href="#at-a-glance">At a Glance</a></li>
-      </ul>
-    </li>
-    <li><a href="#detail">Detail</a></li>
-  </ol>
+
+  - [Welcome to Dummy Notes!](#welcome-to-dummy-notes!)
+    - [At a Glance](#at-a-glance)
+  - [Detail](#detail)
 </details>
 
 <!-- At a glance -->
 ## Welcome to Dummy Notes!
-where I make notes what I know or don't.
+_where I make notes what `I know` or don't._
 <!-- At a glance -->
 ### At a Glance
 * PHP
@@ -62,6 +57,13 @@ where I make notes what I know or don't.
    6. [shell](./linux/vim.md)
 2. [kubernetes](./kubernetes/base.md)
 
+> Stats
+
+| Name                       | Default value      | Description                                                                 |
+| -------------------------- | ------------------ | --------------------------------------------------------------------------- |
+| Lorem Ipsum                | Lorem Ipsum        | Lorem Ipsum                                                                 |
+
+<!-- [![avatar][product-screenshot]][license-url] -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/TinyHust/notes.svg?style=for-the-badge
