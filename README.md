@@ -29,7 +29,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="close">
+<details open="open">
   <summary>Table of Contents</summary>
 
   - [Welcome to Dummy Notes!](#welcome-to-dummy-notes!)
