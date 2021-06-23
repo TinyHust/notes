@@ -11,10 +11,15 @@ Co-authored-by: name <name@example.com>
 Co-authored-by: another-name <another-name@example.com>"
 ```
 
-# behalf of an origanization
+## behalf of an origanization
 ```
 $ git commit -m "Refactor usability tests.
 >
 >
 on-behalf-of: @org <name@organization.com>"
+```
+
+## behalf author
+```
+git commit -m "10.22.23.06.21" --author "Medium <medium.hust.lee@gmail.com>"
 ```
