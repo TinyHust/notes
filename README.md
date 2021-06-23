@@ -105,6 +105,113 @@ _where I make notes what `I know` or **don't**._
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Move/rename repository     | :truck: `:truck:`                             |
 
+### Animals & Nature
+#### Animal Mammal
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :monkey_face: | `:monkey_face:` | :monkey: | `:monkey:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :gorilla: | `:gorilla:` | :orangutan: | `:orangutan:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dog: | `:dog:` | :dog2: | `:dog2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :guide_dog: | `:guide_dog:` | :service_dog: | `:service_dog:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :poodle: | `:poodle:` | :wolf: | `:wolf:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :fox_face: | `:fox_face:` | :raccoon: | `:raccoon:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :cat: | `:cat:` | :cat2: | `:cat2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :lion: | `:lion:` | :tiger: | `:tiger:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :tiger2: | `:tiger2:` | :leopard: | `:leopard:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :horse: | `:horse:` | :racehorse: | `:racehorse:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :unicorn: | `:unicorn:` | :zebra: | `:zebra:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :deer: | `:deer:` | :cow: | `:cow:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :ox: | `:ox:` | :water_buffalo: | `:water_buffalo:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :cow2: | `:cow2:` | :pig: | `:pig:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :pig2: | `:pig2:` | :boar: | `:boar:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :pig_nose: | `:pig_nose:` | :ram: | `:ram:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :sheep: | `:sheep:` | :goat: | `:goat:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dromedary_camel: | `:dromedary_camel:` | :camel: | `:camel:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :llama: | `:llama:` | :giraffe: | `:giraffe:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :elephant: | `:elephant:` | :rhinoceros: | `:rhinoceros:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :hippopotamus: | `:hippopotamus:` | :mouse: | `:mouse:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :mouse2: | `:mouse2:` | :rat: | `:rat:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :hamster: | `:hamster:` | :rabbit: | `:rabbit:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rabbit2: | `:rabbit2:` | :chipmunk: | `:chipmunk:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :hedgehog: | `:hedgehog:` | :bat: | `:bat:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bear: | `:bear:` | :koala: | `:koala:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :panda_face: | `:panda_face:` | :sloth: | `:sloth:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :otter: | `:otter:` | :skunk: | `:skunk:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :kangaroo: | `:kangaroo:` | :badger: | `:badger:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :feet: | `:feet:` <br /> `:paw_prints:` | | | [top](#table-of-contents) |
+
+#### Animal Bird
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :turkey: | `:turkey:` | :chicken: | `:chicken:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rooster: | `:rooster:` | :hatching_chick: | `:hatching_chick:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :baby_chick: | `:baby_chick:` | :hatched_chick: | `:hatched_chick:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bird: | `:bird:` | :penguin: | `:penguin:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dove: | `:dove:` | :eagle: | `:eagle:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :duck: | `:duck:` | :swan: | `:swan:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :owl: | `:owl:` | :flamingo: | `:flamingo:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :peacock: | `:peacock:` | :parrot: | `:parrot:` | [top](#table-of-contents) |
+
+#### Animal Amphibian
+
+| | ico | shortcode | |
+| - | :-: | - | - |
+| [top](#animals--nature) | :frog: | `:frog:` | [top](#table-of-contents) |
+
+#### Animal Reptile
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :crocodile: | `:crocodile:` | :turtle: | `:turtle:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :lizard: | `:lizard:` | :snake: | `:snake:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dragon_face: | `:dragon_face:` | :dragon: | `:dragon:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :sauropod: | `:sauropod:` | :t-rex: | `:t-rex:` | [top](#table-of-contents) |
+
+#### Animal Marine
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :whale: | `:whale:` | :whale2: | `:whale2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dolphin: | `:dolphin:` <br /> `:flipper:` | :fish: | `:fish:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :tropical_fish: | `:tropical_fish:` | :blowfish: | `:blowfish:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :shark: | `:shark:` | :octopus: | `:octopus:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :shell: | `:shell:` | | | [top](#table-of-contents) |
+
+#### Animal Bug
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :snail: | `:snail:` | :butterfly: | `:butterfly:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bug: | `:bug:` | :ant: | `:ant:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bee: | `:bee:` <br /> `:honeybee:` | :beetle: | `:beetle:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :cricket: | `:cricket:` | :spider: | `:spider:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :spider_web: | `:spider_web:` | :scorpion: | `:scorpion:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :mosquito: | `:mosquito:` | :microbe: | `:microbe:` | [top](#table-of-contents) |
+
+#### Plant Flower
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :bouquet: | `:bouquet:` | :cherry_blossom: | `:cherry_blossom:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :white_flower: | `:white_flower:` | :rosette: | `:rosette:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rose: | `:rose:` | :wilted_flower: | `:wilted_flower:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :hibiscus: | `:hibiscus:` | :sunflower: | `:sunflower:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :blossom: | `:blossom:` | :tulip: | `:tulip:` | [top](#table-of-contents) |
+
+#### Plant Other
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :seedling: | `:seedling:` | :evergreen_tree: | `:evergreen_tree:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :deciduous_tree: | `:deciduous_tree:` | :palm_tree: | `:palm_tree:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :cactus: | `:cactus:` | :ear_of_rice: | `:ear_of_rice:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :herb: | `:herb:` | :shamrock: | `:shamrock:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :four_leaf_clover: | `:four_leaf_clover:` | :maple_leaf: | `:maple_leaf:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :fallen_leaf: | `:fallen_leaf:` | :leaves: | `:leaves:` | [top](#table-of-contents) |
+
+
 <!-- [![avatar][product-screenshot]][license-url] -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
