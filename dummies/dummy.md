@@ -22,6 +22,8 @@ nodejs
 - express
   - express-validator
   - express-async-errors
+  - jest
+  - suppertest
 - electron
 - rest/grapql
 
@@ -53,6 +55,7 @@ python
 js
 - [x] typescript
 - [ ] react/typescript
+- [ ] pwa
 - [ ] libs
   - [ ] [emotion](https://github.com/emotion-js/emotion)
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
