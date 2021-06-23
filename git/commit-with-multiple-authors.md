@@ -23,3 +23,8 @@ on-behalf-of: @org <name@organization.com>"
 ```
 git commit -m "10.22.23.06.21" --author "Medium <medium.hust.lee@gmail.com>"
 ```
+or
+```
+git commit -m "10.22.23.06.21" --author "Medium"
+```
+Git will use to search for previous authors

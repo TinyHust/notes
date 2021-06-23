@@ -3,6 +3,7 @@
 
 ```
 git log --pretty=oneline
+git log --oneline
 ```
 
 Type `q` to exit this screen.

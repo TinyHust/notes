@@ -10,3 +10,14 @@ git config --global user.email test@gmail.com
 ```
 git config user.name
 ```
+
+## branch
+### show all branches
+```
+git branch -a
+```
+
+### delete branch
+```
+git branch -D branch_name
+```
