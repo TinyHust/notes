@@ -10,3 +10,11 @@ git commit -m "Refactor usability tests.
 Co-authored-by: name <name@example.com>
 Co-authored-by: another-name <another-name@example.com>"
 ```
+
+# behalf of an origanization
+```
+$ git commit -m "Refactor usability tests.
+>
+>
+on-behalf-of: @org <name@organization.com>"
+```
