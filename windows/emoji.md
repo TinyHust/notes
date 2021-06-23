@@ -1,0 +1,1 @@
+pressing `Win` + `.` while having keyboard focus in a text field in any program
