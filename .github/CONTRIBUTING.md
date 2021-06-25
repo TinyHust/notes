@@ -9,8 +9,6 @@ Before you begin:
 
 ### Use the 'make a contribution' button
 
-<img src="./assets/images/contribution_cta.png" width="400">
-
 Navigating a new codebase can be challenging, so we're making that a little easier. As you're using docs.github.com, you may come across an article that you want to make an update to. You can click on the **make a contribution** button right on that article, which will take you to the file in this repo where you'll make your changes.
 
 Before you make your changes, check to see if an [issue exists](https://github.com/github/docs/issues/) already for the change you want to make.
