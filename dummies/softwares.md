@@ -1,6 +1,5 @@
 multifind  
 epic pen  
-sound booster  
 powertoys  
 lightshot  
 poderosa  
