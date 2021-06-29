@@ -1,58 +1,67 @@
 hello world  
 my dummy notes
 
-- heml
-- terraform
-- skaffold
-- efk
-- elk
+- [x] : preliminary understanding
+
+---
+
+devops
+- [ ] heml
+- [ ] terraform
+- [ ] skaffold
+- [ ] efk
+- [ ] elk
 
 cicd
-- jenkins
-  - github request builder
-  - send mail
-  - notify to slack
-- circle ci
+- [ ] jenkins
+  - [ ] github request builder
+  - [ ] send mail
+  - [ ] notify to slack
+- [ ] circle ci
 
 nodejs
-- remote debug
-- strapi
-- gastby
-- next
-- express
-  - express-validator
-  - express-async-errors
-  - jest
-  - suppertest
-- electron
-- rest/grapql
+- [ ] remote debug
+- [ ] strapi
+- [ ] gastby
+- [ ] next
+  - [ ] vercel
+  - [ ] heroku
+- [ ] express
+  - [ ] express-validator
+  - [ ] express-async-errors
+  - [ ] jest
+  - [ ] suppertest
+- [ ] electron
+- [ ] rest/grapql
 
 editor
-- vim
-- nano
-- markdown
+- [ ] vim
+- [ ] nano
+- [ ] markdown
 
 php
-- pure php payment ( paypal )
-- larravel
-  - larravel grapql
+- [ ] pure php payment ( paypal )
+- [ ] larravel
+  - [ ] larravel grapql
 
 queue
-- rabitmq
-- kafka
+- [ ] rabitmq
+- [ ] kafka
 
 db
-- mongodb
-- postgresql
+- [ ] mongodb
+- [ ] postgresql
+- [ ] redis
+- [ ] elasticsearch
 
 flutter
-- login with social network
-- connect wp
+- [ ] login with social network
+- [ ] connect wp
 
 python
-- flask
+- [ ] flask
 
-js
+js & misc
 - [x] typescript
   - [ ] [parcel](https://github.com/parcel-bundler/parcel)
 - [ ] react/typescript
@@ -61,6 +70,20 @@ js
   - [ ] [emotion](https://github.com/emotion-js/emotion)
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
   - [ ] [faker](https://github.com/marak/Faker.js/)
+  - [ ] D3
+
+cloud
+  - [ ] aws
+    - [ ] lambda function
+  - [ ] gcp
+    - [ ] firebase
+      - [ ] firestore
+      - [ ] auth
+      - [ ] hosting
+      - [ ] cloud function
+      - [ ] github action
+
+---
 
 REFs:  
 [fake api](https://jsonplaceholder.typicode.com/)
@@ -68,6 +91,8 @@ REFs:
 [draw,chart,diagram](draw.io)  
 [gitignore](https://github.com/github/gitignore)
 
+
+android emulator access local via: 10.0.2.2
 
 terminology:  
 Full Page Scroll Effect: scroll-snap-type
