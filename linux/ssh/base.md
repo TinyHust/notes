@@ -41,7 +41,7 @@ systemctl restart sshd
 ```
 
 ## fake ip ( socks: localhost:19999 )
-REF: [https://xuanthulab.net/cai-dat-dich-vu-ssh-tren-server-linux-va-windows.html](https://xuanthulab.net/cai-dat-dich-vu-ssh-tren-server-linux-va-windows.html)  
+REF: [https://xuanthulab.net/mot-so-thu-thuat-su-dung-ssh.html](https://xuanthulab.net/mot-so-thu-thuat-su-dung-ssh.html)  
 ```
 ssh -D 0.0.0.0:19999 root@myserver
 ```

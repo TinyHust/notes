@@ -24,8 +24,11 @@ nodejs
 - [ ] strapi
 - [ ] gastby
 - [ ] next
-  - [ ] vercel
-  - [ ] heroku
+  - [ ] styled jsx
+  - [ ] image component white list domain
+  - [ ] deploy
+    - [ ] vercel
+    - [ ] heroku
 - [ ] express
   - [ ] express-validator
   - [ ] express-async-errors
@@ -79,9 +82,16 @@ cloud
     - [ ] firebase
       - [ ] firestore
       - [ ] auth
+        - [ ] REF: https://waelyasmina.com/firebase-authentication-with-javascript-tutorial/
+        - [ ] https://www.youtube.com/watch?v=CgjiEikWMqk&list=PLjcjAqAnHd1Gx-eD4BUVs2U8ijddKvEym&index=2
       - [ ] hosting
       - [ ] cloud function
       - [ ] github action
+
+fe
+  - [ ] svg
+  - [ ] css
+    - [ ] grid
 
 ---
 
@@ -95,4 +105,5 @@ REFs:
 android emulator access local via: 10.0.2.2
 
 terminology:  
-Full Page Scroll Effect: scroll-snap-type
+Full Page Scroll Effect: scroll-snap-type  
+template string  
