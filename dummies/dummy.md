@@ -102,10 +102,17 @@ REFs:
 [random user](https://randomuser.me/)  
 [random avatar](https://uifaces.co/)  
 [php sandbox](https://sandbox.onlinephpfunctions.com/WjJjNklFeGtkQ1F4TnpNMU9ESTRPVGM9&YkhBNklHeGtkREUzTXpVNE1qZzVOdz09&YVdNNklHdG9ZVzVvTlRJME1EQXhNU0F2SUV4a2RFQXlNREEwTVRrNU1BPT0?&WkdnNklHeGtkREl3TURReE9Ua3dJQzhnYkdSME1qQXdOREU1T1RBPQ??&WjJFNklFUmFXRWsyUXpWVlNVUXlUMWxPUmxJPQ??&YkRNNklFeGtkQ00zT0RrMk16SXhORFU9&WVhkek9pQjBiMkZ1YkdRZ0x5Qk1aSFJBTWpBd05ERTVPVEE9&UVV0SlFWRTBWamRYVGt0T1dEVkNUVkpQVUU4Z0x5QldUa0Z5TVhKVWFtSmxRak1yV21SV2N5dHlLMlJpZFdWQ09HbH&JkbGxpTDNOclFrbEdOVVV2)  
-[draw,chart,diagram](draw.io)  
-[free svg icon](https://www.visualpharm.com)  
 [gitignore](https://github.com/github/gitignore)  
 [Sign In With Google](https://developers.google.cn/identity/gsi/web/tools/configurator)
+
+[Fax](https://www.afax.com/)  
+
+[draw,chart,diagram](draw.io)  
+[free svg icon](https://www.visualpharm.com)  
+Chart:
+  - [highcharts](https://www.highcharts.com/)
+  - [flourish](https://flourish.studio/pricing/)
+[gltf viewer](https://gltf-viewer.donmccurdy.com/)
 
 android emulator access local via: 10.0.2.2
 
@@ -113,4 +120,6 @@ terminology:
 Full Page Scroll Effect: scroll-snap-type  
 template string  
 isometric  
-Unicode Text Converter...
+Unicode Text Converter  
+Firefox proxy: Proxy Toggle  
+GC proxy: Proxy SwitchyOmega  
