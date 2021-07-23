@@ -32,12 +32,17 @@ nodejs
 - [ ] express
   - [ ] express-validator
   - [ ] express-async-errors
+  - [ ] express-session
 - [ ] electron
 - [ ] rest/grapql
 - [ ] test
   - [ ] jest
   - [ ] suppertest
   - [ ] autocannon
+- [ ] bunyan
+- [ ] redis
+  - [ ] connect-redis
+- [ ] sequelize
 
 editor
 - [ ] vim
@@ -116,10 +121,18 @@ Chart:
 
 android emulator access local via: 10.0.2.2
 
-terminology:  
+**terminology**:  
 Full Page Scroll Effect: scroll-snap-type  
+[border radius](https://9elements.github.io/fancy-border-radius/)  
+
+js:
 template string  
-isometric  
+
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
 GC proxy: Proxy SwitchyOmega  
+
+isometric  
+[neumorphic](https://neumorphism.io/#e0e0e0)  
+
+https://www.capturingreality.com/
