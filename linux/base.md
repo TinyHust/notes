@@ -3,3 +3,6 @@
 
 ## check user id, group id
 `id`
+
+## HTTP benchmarking tool
+wrk

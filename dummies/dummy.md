@@ -33,16 +33,21 @@ nodejs
   - [ ] express-validator
   - [ ] express-async-errors
   - [ ] express-session
+  - [ ] template
+    - [ ] pug
+    - [ ] ejs
 - [ ] electron
 - [ ] rest/grapql
 - [ ] test
   - [ ] jest
   - [ ] suppertest
   - [ ] autocannon
+  - [ ] loadtest
 - [ ] bunyan
 - [ ] redis
   - [ ] connect-redis
 - [ ] sequelize
+- [ ] pm2
 
 editor
 - [ ] vim
@@ -134,5 +139,3 @@ GC proxy: Proxy SwitchyOmega
 
 isometric  
 [neumorphic](https://neumorphism.io/#e0e0e0)  
-
-https://www.capturingreality.com/
