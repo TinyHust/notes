@@ -6,3 +6,8 @@
 
 ## HTTP benchmarking tool
 wrk
+
+## history cmd
+```
+history
+```

@@ -17,3 +17,15 @@ terraform show
 ```
 terraform destroy
 ```
+
+## input var
+```
+terraform apply -auto-approve -var"var_name=var_value"
+```
+
+**terminology**:  
+data template  
+for_each  
+dynamic block  
+cidrsubnet()  
+run terraform from jenkins
