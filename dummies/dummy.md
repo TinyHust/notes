@@ -1,6 +1,14 @@
 hello world  
 my dummy notes
 
+<pre id="rabbit">
+  |\   /|
+   \|_|/
+   /. .\
+  =\_Y_/=
+   {>o<}
+</pre>
+
 - [x] : preliminary understanding
 
 ---
@@ -48,6 +56,7 @@ nodejs
   - [ ] connect-redis
 - [ ] sequelize
 - [ ] pm2
+- [ ] semver
 
 editor
 - [ ] vim
@@ -129,6 +138,9 @@ android emulator access local via: 10.0.2.2
 **terminology**:  
 Full Page Scroll Effect: scroll-snap-type  
 [border radius](https://9elements.github.io/fancy-border-radius/)  
+backface-visibility  
+-webkit-box-reflect  
+Custom properties (--*): CSS variables  
 
 js:
 template string  
@@ -141,3 +153,4 @@ isometric
 [neumorphic](https://neumorphism.io/#e0e0e0)  
 
 shebang  
+[scippet-generator](https://snippet-generator.app/)  

@@ -212,6 +212,14 @@ _where I make notes what `I know` or **don't**._
 | [top](#animals--nature) | :fallen_leaf: | `:fallen_leaf:` | :leaves: | `:leaves:` | [top](#table-of-contents) |
 
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 <!-- [![avatar][product-screenshot]][license-url] -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
