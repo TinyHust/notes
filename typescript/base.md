@@ -18,3 +18,9 @@ interface actionOpState<T extends keyof U, U> {
 const a: actionOpState<opStateKey, opState> = {optionId: 'string', type: 'id', value: false};
 const b: actionOpState<keyof opState, opState> = {optionId: 'string', type: 'id', value: false};
 ```
+
+
+## create tsconfig
+```
+tsc --init
+```

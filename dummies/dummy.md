@@ -128,6 +128,9 @@ REFs:
 
 [draw,chart,diagram](draw.io)  
 [free svg icon](https://www.visualpharm.com)  
+[rewrite content](https://quillbot.com/)  
+[white board](https://lucid.app/)  
+[white board](https://miro.com/)  
 Chart:
   - [highcharts](https://www.highcharts.com/)
   - [flourish](https://flourish.studio/pricing/)
