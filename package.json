@@ -10,6 +10,9 @@
     "test": "jest test",
     "test:coverage": "jest --coverage && coveralls < coverage/lcov.info"
   },
+  "jest": {
+    "testPathIgnorePatterns": ["<rootDir>/examples/microservices/auth"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TinyHust/notes.git"
