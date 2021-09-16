@@ -4,8 +4,9 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
+[![Issues][issues-shield]][issues-url]  
+[![Build Status](https://app.travis-ci.com/TinyHust/notes.svg?branch=main)](https://app.travis-ci.com/TinyHust/notes)
+[![Coverage Status](https://coveralls.io/repos/github/TinyHust/notes/badge.svg?branch=main)](https://coveralls.io/github/TinyHust/notes?branch=main)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
