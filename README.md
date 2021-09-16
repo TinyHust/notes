@@ -107,6 +107,14 @@ _where I make notes what `I know` or **don't**._
 
 ### Animals & Nature
 #### Animal Mammal
+<pre id="cow">
+< hello! >
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+</pre>
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |

@@ -1,0 +1,28 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "<!-- PROJECT SHIELDS -->\r [![Contributors][contributors-shield]][contributors-url]\r [![Forks][forks-shield]][forks-url]\r [![Stargazers][stars-shield]][stars-url]\r [![Issues][issues-shield]][issues-url]",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest test",
+    "test:coverage": "jest --coverage && coveralls < coverage/lcov.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyHust/notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinyHust/notes/issues"
+  },
+  "homepage": "https://github.com/TinyHust/notes#readme",
+  "devDependencies": {
+    "coveralls": "^3.1.1",
+    "jest": "^27.2.0"
+  }
+}

@@ -95,6 +95,12 @@ js & misc
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
   - [ ] [faker](https://github.com/marak/Faker.js/)
   - [ ] D3
+  - [ ] React
+    - [ ] [DnD](https://react-dnd.github.io/react-dnd/examples/tutorial)
+    - [ ] [Form](https://formik.org/)
+  - [ ] form validate
+    - [ ] [Yup](https://github.com/jquense/yup)
+    - [ ] [joi](https://github.com/sideway/joi)
 
 cloud
   - [ ] aws
@@ -121,7 +127,7 @@ REFs:
 [random user](https://randomuser.me/)  
 [random avatar](https://uifaces.co/)  
 [php sandbox](https://sandbox.onlinephpfunctions.com/WjJjNklFeGtkQ1F4TnpNMU9ESTRPVGM9&YkhBNklHeGtkREUzTXpVNE1qZzVOdz09&YVdNNklHdG9ZVzVvTlRJME1EQXhNU0F2SUV4a2RFQXlNREEwTVRrNU1BPT0?&WkdnNklHeGtkREl3TURReE9Ua3dJQzhnYkdSME1qQXdOREU1T1RBPQ??&WjJFNklFUmFXRWsyUXpWVlNVUXlUMWxPUmxJPQ??&YkRNNklFeGtkQ00zT0RrMk16SXhORFU9&WVhkek9pQjBiMkZ1YkdRZ0x5Qk1aSFJBTWpBd05ERTVPVEE9&UVV0SlFWRTBWamRYVGt0T1dEVkNUVkpQVUU4Z0x5QldUa0Z5TVhKVWFtSmxRak1yV21SV2N5dHlLMlJpZFdWQ09HbH&JkbGxpTDNOclFrbEdOVVV2)  
-[gitignore](https://github.com/github/gitignore)  
+[gitignore](https://github.com/github/gitignore/TW1OalptRXRaak0zWXpJdFkySmlZMkV0T0dWa04yVXRaR1E1TWpZdE16ZGhOVGt0TkRCaU1UQXRZelV5T1dFdE1EaGhZak10WXpBMk56a3RZMk5qWldFdE4yTTRNVGN0Wm1KbVlqa3ROVEUwWmpJdFltVmxaR010WVdRM1kyRXRNMlkwTjJVdFpHRXdNRFV0T1RReU9EWXRaamRrWlRrdE9UbGpOekF0TlRnM05qQXRaalE1WWpVdE5URmtNelF0WkdGalpESXRNbVUwTkdFdFpEVmhNR010Wm1RNVpqRXRZV0ZqTVdVdFlXUXlPV0V0TldJek56TXRPVEpoT1RNPQ??)  
 [Sign In With Google](https://developers.google.cn/identity/gsi/web/tools/configurator)
 
 [Fax](https://www.afax.com/)  
@@ -147,6 +153,9 @@ Custom properties (--*): CSS variables
 
 js:
 template string  
+ResizeObserver  
+Intersection Observer API [example](https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll)  
+onanimationend  
 
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
