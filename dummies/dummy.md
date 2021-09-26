@@ -96,11 +96,20 @@ js & misc
   - [ ] [faker](https://github.com/marak/Faker.js/)
   - [ ] D3
   - [ ] React
+    - [ ] [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
     - [ ] [DnD](https://react-dnd.github.io/react-dnd/examples/tutorial)
     - [ ] [Form](https://formik.org/)
+    - [ ] [react-loadable](https://github.com/jamiebuilds/react-loadable)
   - [ ] form validate
     - [ ] [Yup](https://github.com/jquense/yup)
     - [ ] [joi](https://github.com/sideway/joi)
+  - [ ] utils
+    - [ ] [Lodash](https://lodash.com/)
+    - [ ] [ramdajs](https://ramdajs.com/)
+    - [ ] [fantasy-land](https://github.com/fantasyland/fantasy-land)
+  - [ ] sandbox
+    - [ ] [codesandbox](https://codesandbox.io/)
+    - [ ] [runkit](https://runkit.com/)
 
 cloud
   - [ ] aws
@@ -120,6 +129,10 @@ fe
   - [ ] css
     - [ ] grid
 
+docs
+  - [ ] [redoc](https://github.com/Redocly/redoc)
+  - [ ] [swagger](https://swagger.io/)
+  - [ ] [gitbook](https://www.gitbook.com/)
 ---
 
 REFs:  
@@ -138,9 +151,11 @@ REFs:
 [white board](https://lucid.app/)  
 [white board](https://miro.com/)  
 Chart:
-  - [highcharts](https://www.highcharts.com/)
-  - [flourish](https://flourish.studio/pricing/)
-[gltf viewer](https://gltf-viewer.donmccurdy.com/)
+  - [highcharts](https://www.highcharts.com/)  
+  - [flourish](https://flourish.studio/pricing/)  
+[gltf viewer](https://gltf-viewer.donmccurdy.com/)  
+[gltf viewer](https://sandbox.babylonjs.com/)  
+[jsdelivr - free CDN](https://www.jsdelivr.com/?docs=gh)
 
 android emulator access local via: 10.0.2.2
 
