@@ -8,7 +8,9 @@
 [![Build Status](https://app.travis-ci.com/TinyHust/notes.svg?branch=main)](https://app.travis-ci.com/TinyHust/notes)
 [![Coverage Status](https://coveralls.io/repos/github/TinyHust/notes/badge.svg?branch=main)](https://coveralls.io/github/TinyHust/notes?branch=main)
 [![Build](https://github.com/TinyHust/notes/actions/workflows/build-image.yml/badge.svg)](https://github.com/TinyHust/notes/actions?workflow=build-image)
-[![Stale](https://img.shields.io/github/workflow/status/TinyHust/notes/Mark%20stale%20issues%20and%20pull%20requests?color=blue&label=Stale&logo=github&logoColor=orange)](https://github.com/TinyHust/notes/actions?workflow=stale)
+[![Stale](https://img.shields.io/github/workflow/status/TinyHust/notes/Mark%20stale%20issues%20and%20pull%20requests?color=blue&label=Stale&logo=github&logoColor=orange)](https://github.com/TinyHust/notes/actions?workflow=stale)  
+[![](https://data.jsdelivr.com/v1/package/gh/TinyHust/notes/badge)](https://www.jsdelivr.com/package/gh/TinyHust/notes)
+[![Discord](https://img.shields.io/discord/892582199063351376.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zhz5NCWN6S)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">

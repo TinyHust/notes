@@ -95,6 +95,8 @@ js & misc
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
   - [ ] [faker](https://github.com/marak/Faker.js/)
   - [ ] D3
+  - [ ] [panorama](https://pannellum.org/)
+  - [ ] [timeframe](https://github.com/ariaminaei/theatre)
   - [ ] React
     - [ ] [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
     - [ ] [DnD](https://react-dnd.github.io/react-dnd/examples/tutorial)
@@ -168,7 +170,7 @@ Custom properties (--*): CSS variables
 
 js:
 template string  
-ResizeObserver  
+[ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)  
 Intersection Observer API [example](https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll)  
 onanimationend  
 
