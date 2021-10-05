@@ -162,11 +162,6 @@ Chart:
 android emulator access local via: 10.0.2.2
 
 **terminology**:  
-Full Page Scroll Effect: scroll-snap-type  
-[border radius](https://9elements.github.io/fancy-border-radius/)  
-backface-visibility  
--webkit-box-reflect  
-Custom properties (--*): CSS variables  
 
 js:
 template string  
@@ -179,7 +174,6 @@ Firefox proxy: Proxy Toggle
 GC proxy: Proxy SwitchyOmega  
 
 isometric  
-[neumorphic](https://neumorphism.io/#e0e0e0)  
 
 shebang  
 [scippet-generator](https://snippet-generator.app/)  

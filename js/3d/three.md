@@ -5,5 +5,3 @@
 - [ ] get uvmap mouse position ( in case use 2d canvas - fabric canvas as uvmap )
   - [ ] [https://github.com/mrdoob/three.js/blob/master/examples/webgl_raycast_texture.html](https://github.com/mrdoob/three.js/blob/master/examples/webgl_raycast_texture.html)
   - [ ] [https://codepen.io/ricardcreagia/pen/EdEGo](https://codepen.io/ricardcreagia/pen/EdEGod)
-
-- [ ] [examples](https://manu.ninja/25-real-world-applications-using-webgl/)
