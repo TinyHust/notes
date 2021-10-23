@@ -51,6 +51,7 @@ nodejs
   - [ ] suppertest
   - [ ] autocannon
   - [ ] loadtest
+  - [ ] [cypress](https://docs.cypress.io/)
 - [ ] bunyan
 - [ ] redis
   - [ ] connect-redis
@@ -95,13 +96,14 @@ js & misc
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
   - [ ] [faker](https://github.com/marak/Faker.js/)
   - [ ] D3
-  - [ ] [panorama](https://pannellum.org/)
+  - [ ] [pannorama](https://pannellum.org/)
   - [ ] [timeframe](https://github.com/ariaminaei/theatre)
   - [ ] React
     - [ ] [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
     - [ ] [DnD](https://react-dnd.github.io/react-dnd/examples/tutorial)
-    - [ ] [Form](https://formik.org/)
+    - [x] [Form](https://formik.org/)
     - [ ] [react-loadable](https://github.com/jamiebuilds/react-loadable)
+    - [ ] [react-query](https://react-query.tanstack.com/)
   - [ ] form validate
     - [ ] [Yup](https://github.com/jquense/yup)
     - [ ] [joi](https://github.com/sideway/joi)
@@ -112,6 +114,8 @@ js & misc
   - [ ] sandbox
     - [ ] [codesandbox](https://codesandbox.io/)
     - [ ] [runkit](https://runkit.com/)
+  - [ ] graphql
+    - [ ] [graphql-request](https://github.com/prisma-labs/graphql-request)
 
 cloud
   - [ ] aws
@@ -129,7 +133,7 @@ cloud
 fe
   - [ ] svg
   - [ ] css
-    - [ ] grid
+    - [x] grid
 
 docs
   - [ ] [redoc](https://github.com/Redocly/redoc)
