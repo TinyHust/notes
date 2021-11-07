@@ -24,3 +24,5 @@ const b: actionOpState<keyof opState, opState> = {optionId: 'string', type: 'id'
 ```
 tsc --init
 ```
+
+override declare

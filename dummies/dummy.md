@@ -178,6 +178,7 @@ Firefox proxy: Proxy Toggle
 GC proxy: Proxy SwitchyOmega  
 
 isometric  
+linear diophantine equations  
 
 shebang  
 [scippet-generator](https://snippet-generator.app/)  
