@@ -1,7 +1,11 @@
-- [ ] [raycaster](https://threejs.org/docs/#api/en/core/Raycaster)
-- [ ] [hotspot - annotation](https://manu.ninja/webgl-three-js-annotations/)
-- [ ] normal map
-  - [ ] blender normal map
-- [ ] get uvmap mouse position ( in case use 2d canvas - fabric canvas as uvmap )
-  - [ ] [https://github.com/mrdoob/three.js/blob/master/examples/webgl_raycast_texture.html](https://github.com/mrdoob/three.js/blob/master/examples/webgl_raycast_texture.html)
-  - [ ] [https://codepen.io/ricardcreagia/pen/EdEGo](https://codepen.io/ricardcreagia/pen/EdEGod)
+- [raycaster](https://threejs.org/docs/#api/en/core/Raycaster)
+- [hotspot - annotation](https://manu.ninja/webgl-three-js-annotations/)
+- normal map
+  - blender normal map
+- get uvmap mouse position ( in case use 2d canvas - fabric canvas as uvmap )
+  - [https://github.com/mrdoob/three.js/blob/master/examples/webgl_raycast_texture.html](https://github.com/mrdoob/three.js/blob/master/examples/webgl_raycast_texture.html)
+  - [https://codepen.io/ricardcreagia/pen/EdEGo](https://codepen.io/ricardcreagia/pen/EdEGod)
+
+- [convert height to normal map](https://cpetry.github.io/NormalMap-Online/)
+- [gltf viewer](https://gltf-viewer.donmccurdy.com/)
+- [gltf viewer](https://sandbox.babylonjs.com/)

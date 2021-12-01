@@ -91,6 +91,8 @@ js & misc
   - [ ] [parcel](https://github.com/parcel-bundler/parcel)
 - [ ] react/typescript
 - [ ] pwa
+  - [ ] service worker 
+    - [ ] [workbox](https://github.com/GoogleChrome/workbox)
 - [ ] libs
   - [ ] [emotion](https://github.com/emotion-js/emotion)
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
@@ -116,6 +118,8 @@ js & misc
     - [ ] [runkit](https://runkit.com/)
   - [ ] graphql
     - [ ] [graphql-request](https://github.com/prisma-labs/graphql-request)
+  - [ ] time
+    - [ ] [momentjs](https://github.com/moment/moment)
 
 cloud
   - [ ] aws
@@ -156,12 +160,6 @@ REFs:
 [rewrite content](https://quillbot.com/)  
 [white board](https://lucid.app/)  
 [white board](https://miro.com/)  
-Chart:
-  - [highcharts](https://www.highcharts.com/)  
-  - [flourish](https://flourish.studio/pricing/)  
-[gltf viewer](https://gltf-viewer.donmccurdy.com/)  
-[gltf viewer](https://sandbox.babylonjs.com/)  
-[jsdelivr - free CDN](https://www.jsdelivr.com/?docs=gh)
 
 android emulator access local via: 10.0.2.2
 
@@ -176,6 +174,7 @@ onanimationend
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
 GC proxy: Proxy SwitchyOmega  
+sms brandname
 
 isometric  
 linear diophantine equations  
