@@ -170,11 +170,11 @@ template string
 [ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)  
 Intersection Observer API [example](https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll)  
 onanimationend  
+WeakMap  
 
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
 GC proxy: Proxy SwitchyOmega  
-sms brandname
 
 isometric  
 linear diophantine equations  

@@ -9,3 +9,4 @@
 - [convert height to normal map](https://cpetry.github.io/NormalMap-Online/)
 - [gltf viewer](https://gltf-viewer.donmccurdy.com/)
 - [gltf viewer](https://sandbox.babylonjs.com/)
+- [multiple canvases, multiple scenes](https://threejs.org/manual/#en/multiple-scenes)
