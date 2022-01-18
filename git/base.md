@@ -17,7 +17,17 @@ git config user.name
 git branch -a
 ```
 
+### show remote branches
+```
+git branch -r
+```
+
 ### delete branch
 ```
 git branch -D branch_name
+```
+
+### switch branch
+```
+git switch branch_name
 ```

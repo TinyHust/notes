@@ -120,6 +120,12 @@ js & misc
     - [ ] [graphql-request](https://github.com/prisma-labs/graphql-request)
   - [ ] time
     - [ ] [momentjs](https://github.com/moment/moment)
+  - [ ] benchmark
+    - [ ] [benchmark](https://github.com/bestiejs/benchmark.js])
+  - [ ] editor
+    - [ ] [summernote](https://summernote.org/)
+  - [ ] files
+    - [ ] [elFinder](https://studio-42.github.io/elFinder/#elf_l1_Lw)
 
 cloud
   - [ ] aws
@@ -171,10 +177,13 @@ template string
 Intersection Observer API [example](https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll)  
 onanimationend  
 WeakMap  
+AudioContext  
+[WebAssembly](https://webassembly.org/)  
 
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
 GC proxy: Proxy SwitchyOmega  
+3d PDF  
 
 isometric  
 linear diophantine equations  
