@@ -30,4 +30,5 @@ git branch -D branch_name
 ### switch branch
 ```
 git switch branch_name
+git checkout branch_name
 ```
