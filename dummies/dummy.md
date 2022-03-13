@@ -31,6 +31,8 @@ nodejs
 - [ ] remote debug
 - [ ] strapi
 - [ ] gastby
+- [ ] nest
+- [ ] adonis
 - [ ] next
   - [ ] styled jsx
   - [ ] image component white list domain
@@ -41,6 +43,7 @@ nodejs
   - [ ] express-validator
   - [ ] express-async-errors
   - [ ] express-session
+  - [ ] [helmetjs](https://helmetjs.github.io/)
   - [ ] template
     - [ ] pug
     - [ ] ejs
@@ -58,6 +61,8 @@ nodejs
 - [ ] sequelize
 - [ ] pm2
 - [ ] semver
+- [ ] knexjs
+- [ ] bookshelfjs
 
 editor
 - [ ] vim
@@ -149,6 +154,11 @@ docs
   - [ ] [redoc](https://github.com/Redocly/redoc)
   - [ ] [swagger](https://swagger.io/)
   - [ ] [gitbook](https://www.gitbook.com/)
+---
+
+public localhost
+  - [ ] [ngrok](https://ngrok.com/)
+  - [ ] [telebit](https://telebit.cloud/)
 ---
 
 REFs:  

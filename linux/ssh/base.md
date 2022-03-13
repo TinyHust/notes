@@ -51,3 +51,9 @@ ssh -D 0.0.0.0:19999 root@myserver
 ```
 ssh  -L 0.0.0.0:3306:127.0.0.1:3306 user@remoteserver
 ```
+
+## login with pem file
+```
+chmod 700 ./sm-user.pem
+ssh -i ./sm-user.pem sm@192.168.11.233
+```
