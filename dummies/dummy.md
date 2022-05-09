@@ -131,6 +131,9 @@ js & misc
     - [ ] [summernote](https://summernote.org/)
   - [ ] files
     - [ ] [elFinder](https://studio-42.github.io/elFinder/#elf_l1_Lw)
+  - [ ] BBD
+    - [ ] [jasmine](https://github.com/jasmine/jasmine)
+    - [ ] [chai](https://github.com/chaijs/chai)
 
 cloud
   - [ ] aws
@@ -159,6 +162,7 @@ docs
 public localhost
   - [ ] [ngrok](https://ngrok.com/)
   - [ ] [telebit](https://telebit.cloud/)
+  - [ ] [localtunnel](https://github.com/localtunnel/localtunnel)
 ---
 
 REFs:  
@@ -189,6 +193,8 @@ onanimationend
 WeakMap  
 AudioContext  
 [WebAssembly](https://webassembly.org/)  
+[Web share](https://web.dev/web-share/)  
+check opengraph [opengraph.xyz](https://www.opengraph.xyz/)  
 
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
@@ -197,6 +203,7 @@ GC proxy: Proxy SwitchyOmega
 
 isometric  
 linear diophantine equations  
+SSO server
 
 shebang  
 [scippet-generator](https://snippet-generator.app/)  
