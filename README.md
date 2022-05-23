@@ -267,8 +267,6 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-
-
 <!-- [![avatar][product-screenshot]][license-url] -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
