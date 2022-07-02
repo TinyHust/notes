@@ -54,20 +54,24 @@ nodejs
   - [ ] suppertest
   - [ ] autocannon
   - [ ] loadtest
-  - [ ] [cypress](https://docs.cypress.io/)
+  - [x] [cypress](https://docs.cypress.io/)
+  - [ ] [pactumjs](https://pactumjs.github.io/)
 - [ ] bunyan
 - [ ] redis
   - [ ] connect-redis
-- [ ] sequelize
 - [ ] pm2
 - [ ] semver
 - [ ] knexjs
 - [ ] bookshelfjs
+- [ ] orm
+  - [ ] [sequelize](https://sequelize.org/)
+  - [ ] [prisma](https://www.prisma.io/)
+  - [ ] [typeorm](https://typeorm.io/)
 
 editor
 - [ ] vim
 - [ ] nano
-- [ ] markdown
+- [x] markdown
 
 php
 - [ ] pure php payment ( paypal )
@@ -77,6 +81,9 @@ php
 queue
 - [ ] rabitmq
 - [ ] kafka
+- [ ] nats
+- [ ] azure service bus
+- [ ] grpc
 
 db
 - [ ] mongodb
@@ -134,6 +141,9 @@ js & misc
   - [ ] BBD
     - [ ] [jasmine](https://github.com/jasmine/jasmine)
     - [ ] [chai](https://github.com/chaijs/chai)
+  - [ ] css
+    - [ ] [styled components](https://www.styled-components.com/)
+    - [ ] [tailwindcss](https://tailwindcss.com/)
 
 cloud
   - [ ] aws
@@ -146,7 +156,7 @@ cloud
         - [ ] https://www.youtube.com/watch?v=CgjiEikWMqk&list=PLjcjAqAnHd1Gx-eD4BUVs2U8ijddKvEym&index=2
       - [ ] hosting
       - [ ] cloud function
-      - [ ] github action
+  - [ ] github action
 
 fe
   - [ ] svg
