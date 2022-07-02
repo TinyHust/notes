@@ -118,9 +118,12 @@ js & misc
     - [x] [Form](https://formik.org/)
     - [ ] [react-loadable](https://github.com/jamiebuilds/react-loadable)
     - [ ] [react-query](https://react-query.tanstack.com/)
-  - [ ] form validate
+  - [ ] validation
     - [ ] [Yup](https://github.com/jquense/yup)
     - [ ] [joi](https://github.com/sideway/joi)
+    - [ ] [validator.js](https://github.com/validatorjs/validator.js)
+    - [ ] [zod](https://github.com/colinhacks/zod)
+    - [ ] [superstruct](https://github.com/ianstormtaylor/superstruct)
   - [ ] utils
     - [ ] [Lodash](https://lodash.com/)
     - [ ] [ramdajs](https://ramdajs.com/)
