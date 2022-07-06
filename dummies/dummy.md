@@ -98,6 +98,11 @@ flutter
 python
 - [ ] flask
 
+collector daemon
+- [ ] StatsD
+- [ ] collectd
+- [ ] fluentd
+
 js & misc
 - [x] typescript
   - [ ] [parcel](https://github.com/parcel-bundler/parcel)
