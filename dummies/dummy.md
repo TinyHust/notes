@@ -67,6 +67,7 @@ nodejs
   - [ ] [sequelize](https://sequelize.org/)
   - [ ] [prisma](https://www.prisma.io/)
   - [ ] [typeorm](https://typeorm.io/)
+- [ ] [mongoosejs](https://mongoosejs.com/) 
 
 editor
 - [ ] vim
