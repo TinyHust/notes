@@ -41,3 +41,10 @@ Hi mediumhust! You've successfully authenticated, but GitHub does not provide sh
 git config user.email "medium.hust.lee@gmail.com"
 git config user.name  "mediumhust"
 ```
+
+### edit repo .git/config
+```
+[core]
+	#other config
+	sshCommand = "ssh -i ~/.ssh/medium/id_rsa"
+```
