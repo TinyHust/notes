@@ -68,6 +68,10 @@ nodejs
   - [ ] [prisma](https://www.prisma.io/)
   - [ ] [typeorm](https://typeorm.io/)
 - [ ] [mongoosejs](https://mongoosejs.com/) 
+- [ ] acl
+  - [ ] [casl](https://github.com/stalniy/casl)
+  - [ ] [accesscontrol](https://github.com/onury/accesscontrol)
+  - [ ] [acl](https://github.com/optimalbits/node_acl)
 
 editor
 - [ ] vim
