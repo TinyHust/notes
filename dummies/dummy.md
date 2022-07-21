@@ -207,7 +207,7 @@ REFs:
 android emulator access local via: 10.0.2.2
 
 **terminology**:  
-
+CQRS
 js:
 template string  
 [ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)  
