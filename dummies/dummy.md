@@ -72,6 +72,7 @@ nodejs
   - [ ] [casl](https://github.com/stalniy/casl)
   - [ ] [accesscontrol](https://github.com/onury/accesscontrol)
   - [ ] [acl](https://github.com/optimalbits/node_acl)
+- [ ] [rxjs](https://rxjs.dev/)
 
 editor
 - [ ] vim
