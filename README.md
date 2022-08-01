@@ -1,6 +1,7 @@
 # hi, my Dummy Notes :baby_chick:
 
 <!-- PROJECT SHIELDS -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -11,6 +12,7 @@
 [![Stale](https://img.shields.io/github/workflow/status/TinyHust/notes/Mark%20stale%20issues%20and%20pull%20requests?color=blue&label=Stale&logo=github&logoColor=orange)](https://github.com/TinyHust/notes/actions?workflow=stale)  
 [![](https://data.jsdelivr.com/v1/package/gh/TinyHust/notes/badge)](https://www.jsdelivr.com/package/gh/TinyHust/notes)
 [![Discord](https://img.shields.io/discord/892582199063351376.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zhz5NCWN6S)
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -32,27 +34,33 @@
   </p>
 </p>
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
 
-  - [Welcome to Dummy Notes!](#welcome-to-dummy-notes!)
-    - [At a Glance](#at-a-glance)
-  - [Detail](#detail)
-</details>
+- [Welcome to Dummy Notes!](#welcome-to-dummy-notes!)
+  - [At a Glance](#at-a-glance)
+- [Detail](#detail)
+  </details>
 
 <!-- At a glance -->
+
 ## Welcome to Dummy Notes!
+
 _where I make notes what `I know` or **don't**._
+
 <!-- At a glance -->
+
 ### At a Glance
-* PHP
-* Node/JS
-* DepOps
+
+- PHP
+- Node/JS
+- DepOps
 
 <!-- USAGE EXAMPLES -->
+
 ## Detail
+
 1. [linux](./linux/base.md)
    1. [ssh](./linux/ssh/base.md)
    2. [bash shortcuts](./linux/bash_shortcuts.md)
@@ -94,7 +102,7 @@ _where I make notes what `I know` or **don't**._
 | Fixing on MacOS            | :apple: `:apple:`                                         |
 | Fixing on Linux            | :penguin: `:penguin:`                                     |
 | Fixing on Windows          | :checkered_flag: `:checkered_flag:`                       |
-| Work in progress           | :construction:  `:construction:`                          |
+| Work in progress           | :construction: `:construction:`                           |
 | Adding CI build system     | :construction_worker: `:construction_worker:`             |
 | Analytics or tracking code | :chart_with_upwards_trend: `:chart_with_upwards_trend:`   |
 | Removing a dependency      | :heavy_minus_sign: `:heavy_minus_sign:`                   |
@@ -111,7 +119,9 @@ _where I make notes what `I know` or **don't**._
 | Move/rename repository     | :truck: `:truck:`                                         |
 
 ### Animals & Nature
+
 #### Animal Mammal
+
 <pre id="cow">
 < hello! >
         \   ^__^
@@ -224,7 +234,6 @@ _where I make notes what `I know` or **don't**._
 | [top](#animals--nature) | :four_leaf_clover: | `:four_leaf_clover:` |   :maple_leaf:   | `:maple_leaf:`     | [top](#table-of-contents) |
 | [top](#animals--nature) |   :fallen_leaf:    | `:fallen_leaf:`      |     :leaves:     | `:leaves:`         | [top](#table-of-contents) |
 
-
 ## [Advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
 
 ```mermaid
@@ -249,11 +258,11 @@ graph TD;
         "type": "Polygon",
         "coordinates": [
           [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
+            [-90, 35],
+            [-90, 30],
+            [-85, 30],
+            [-85, 35],
+            [-90, 35]
           ]
         ]
       }
@@ -263,16 +272,14 @@ graph TD;
 ```
 
 ### MathJax
+
 REF: [LaTex](https://en.wikibooks.org/wiki/LaTeX/Mathematics)  
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-$$M = \begin{bmatrix}
-       \frac{5}{6} & \frac{1}{6} & 0           \\[0.3em]
-       \frac{5}{6} & 0           & \frac{1}{6} \\[0.3em]
-       0           & \frac{5}{6} & \frac{1}{6}
-     \end{bmatrix}$$
+$$M = \begin{bmatrix} \frac{5}{6} & \frac{1}{6} & 0 \\[0.3em] \frac{5}{6} & 0 & \frac{1}{6} \\[0.3em] 0 & \frac{5}{6} & \frac{1}{6} \end{bmatrix}$$
 math inline: $\sqrt{3x-1}+(1+x)^2$
 
 ### Syntax highlighting
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
@@ -282,6 +289,7 @@ puts markdown.to_html
 <!-- [![avatar][product-screenshot]][license-url] -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/TinyHust/notes.svg?style=for-the-badge
 [contributors-url]: https://github.com/TinyHust/notes/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/TinyHust/notes.svg?style=for-the-badge
