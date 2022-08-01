@@ -14,6 +14,7 @@ my dummy notes
 ---
 
 devops
+
 - [ ] heml
 - [ ] terraform
 - [ ] skaffold
@@ -21,6 +22,7 @@ devops
 - [ ] elk
 
 cicd
+
 - [ ] jenkins
   - [ ] github request builder
   - [ ] send mail
@@ -28,6 +30,7 @@ cicd
 - [ ] circle ci
 
 nodejs
+
 - [ ] remote debug
 - [ ] strapi
 - [ ] gastby
@@ -67,7 +70,7 @@ nodejs
   - [ ] [sequelize](https://sequelize.org/)
   - [ ] [prisma](https://www.prisma.io/)
   - [ ] [typeorm](https://typeorm.io/)
-- [ ] [mongoosejs](https://mongoosejs.com/) 
+- [ ] [mongoosejs](https://mongoosejs.com/)
 - [ ] acl
   - [ ] [casl](https://github.com/stalniy/casl)
   - [ ] [accesscontrol](https://github.com/onury/accesscontrol)
@@ -75,16 +78,19 @@ nodejs
 - [ ] [rxjs](https://rxjs.dev/)
 
 editor
+
 - [ ] vim
 - [ ] nano
 - [x] markdown
 
 php
+
 - [ ] pure php payment ( paypal )
 - [ ] larravel
   - [ ] larravel grapql
 
 queue
+
 - [ ] rabitmq
 - [ ] kafka
 - [ ] nats
@@ -92,29 +98,43 @@ queue
 - [ ] grpc
 
 db
+
 - [ ] mongodb
 - [ ] postgresql
 - [ ] redis
 - [ ] elasticsearch
 
 flutter
+
 - [ ] login with social network
 - [ ] connect wp
 
 python
+
 - [ ] flask
 
 collector daemon
+
 - [ ] StatsD
 - [ ] collectd
 - [ ] fluentd
 
+go
+
+- [ ] framework
+  - [ ] [Gin](https://github.com/gin-gonic/gin)
+  - [ ] [Echo](https://github.com/labstack/echo)
+- [ ] db
+  - [ ] [gorm](https://github.com/go-gorm/gorm)
+  - [ ] [sqlx](https://github.com/jmoiron/sqlx)
+
 js & misc
+
 - [x] typescript
   - [ ] [parcel](https://github.com/parcel-bundler/parcel)
 - [ ] react/typescript
 - [ ] pwa
-  - [ ] service worker 
+  - [ ] service worker
     - [ ] [workbox](https://github.com/GoogleChrome/workbox)
 - [ ] libs
   - [ ] [emotion](https://github.com/emotion-js/emotion)
@@ -158,35 +178,43 @@ js & misc
   - [ ] css
     - [ ] [styled components](https://www.styled-components.com/)
     - [ ] [tailwindcss](https://tailwindcss.com/)
+  - [ ] cron
+    - [ ] [node-cron](https://github.com/kelektiv/node-cron)
 
 cloud
-  - [ ] aws
-    - [ ] lambda function
-  - [ ] gcp
-    - [ ] firebase
-      - [ ] firestore
-      - [ ] auth
-        - [ ] REF: https://waelyasmina.com/firebase-authentication-with-javascript-tutorial/
-        - [ ] https://www.youtube.com/watch?v=CgjiEikWMqk&list=PLjcjAqAnHd1Gx-eD4BUVs2U8ijddKvEym&index=2
-      - [ ] hosting
-      - [ ] cloud function
-  - [ ] github action
+
+- [ ] aws
+  - [ ] lambda function
+- [ ] gcp
+  - [ ] firebase
+    - [ ] firestore
+    - [ ] auth
+      - [ ] REF: https://waelyasmina.com/firebase-authentication-with-javascript-tutorial/
+      - [ ] https://www.youtube.com/watch?v=CgjiEikWMqk&list=PLjcjAqAnHd1Gx-eD4BUVs2U8ijddKvEym&index=2
+    - [ ] hosting
+    - [ ] cloud function
+- [ ] github action
 
 fe
-  - [ ] svg
-  - [ ] css
-    - [x] grid
+
+- [ ] svg
+- [ ] css
+  - [x] grid
 
 docs
-  - [ ] [redoc](https://github.com/Redocly/redoc)
-  - [ ] [swagger](https://swagger.io/)
-  - [ ] [gitbook](https://www.gitbook.com/)
+
+- [ ] [redoc](https://github.com/Redocly/redoc)
+- [ ] [swagger](https://swagger.io/)
+- [ ] [gitbook](https://www.gitbook.com/)
+
 ---
 
 public localhost
-  - [ ] [ngrok](https://ngrok.com/)
-  - [ ] [telebit](https://telebit.cloud/)
-  - [ ] [localtunnel](https://github.com/localtunnel/localtunnel)
+
+- [ ] [ngrok](https://ngrok.com/)
+- [ ] [telebit](https://telebit.cloud/)
+- [ ] [localtunnel](https://github.com/localtunnel/localtunnel)
+
 ---
 
 REFs:  
@@ -197,13 +225,13 @@ REFs:
 [gitignore](https://github.com/github/gitignore/TW1OalptRXRaak0zWXpJdFkySmlZMkV0T0dWa04yVXRaR1E1TWpZdE16ZGhOVGt0TkRCaU1UQXRZelV5T1dFdE1EaGhZak10WXpBMk56a3RZMk5qWldFdE4yTTRNVGN0Wm1KbVlqa3ROVEUwWmpJdFltVmxaR010WVdRM1kyRXRNMlkwTjJVdFpHRXdNRFV0T1RReU9EWXRaamRrWlRrdE9UbGpOekF0TlRnM05qQXRaalE1WWpVdE5URmtNelF0WkdGalpESXRNbVUwTkdFdFpEVmhNR010Wm1RNVpqRXRZV0ZqTVdVdFlXUXlPV0V0TldJek56TXRPVEpoT1RNPQ??)  
 [Sign In With Google](https://developers.google.cn/identity/gsi/web/tools/configurator)
 
-[Fax](https://www.afax.com/)  
+[Fax](https://www.afax.com/)
 
 [draw,chart,diagram](draw.io)  
 [free svg icon](https://www.visualpharm.com)  
 [rewrite content](https://quillbot.com/)  
 [white board](https://lucid.app/)  
-[white board](https://miro.com/)  
+[white board](https://miro.com/)
 
 android emulator access local via: 10.0.2.2
 
@@ -218,16 +246,16 @@ WeakMap
 AudioContext  
 [WebAssembly](https://webassembly.org/)  
 [Web share](https://web.dev/web-share/)  
-check opengraph [opengraph.xyz](https://www.opengraph.xyz/)  
+check opengraph [opengraph.xyz](https://www.opengraph.xyz/)
 
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
 GC proxy: Proxy SwitchyOmega  
-3d PDF  
+3d PDF
 
 isometric  
 linear diophantine equations  
 SSO server
 
 shebang  
-[scippet-generator](https://snippet-generator.app/)  
+[scippet-generator](https://snippet-generator.app/)
