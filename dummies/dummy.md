@@ -76,6 +76,10 @@ nodejs
   - [ ] [accesscontrol](https://github.com/onury/accesscontrol)
   - [ ] [acl](https://github.com/optimalbits/node_acl)
 - [ ] [rxjs](https://rxjs.dev/)
+- [ ] cron
+  - [ ] [node-cron](https://github.com/kelektiv/node-cron)
+- [ ] queue
+  - [ ] [mqttjs](https://github.com/mqttjs/MQTT.js)
 
 editor
 
@@ -96,6 +100,7 @@ queue
 - [ ] nats
 - [ ] azure service bus
 - [ ] grpc
+- [ ] [mqtt](https://mqtt.org/)
 
 db
 
@@ -178,8 +183,6 @@ js & misc
   - [ ] css
     - [ ] [styled components](https://www.styled-components.com/)
     - [ ] [tailwindcss](https://tailwindcss.com/)
-  - [ ] cron
-    - [ ] [node-cron](https://github.com/kelektiv/node-cron)
 
 cloud
 
