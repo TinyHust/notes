@@ -62,6 +62,7 @@ nodejs
 - [ ] bunyan
 - [ ] redis
   - [ ] connect-redis
+  - [ ] [ioredis](https://github.com/luin/ioredis)
 - [ ] pm2
 - [ ] semver
 - [ ] knexjs
@@ -80,6 +81,9 @@ nodejs
   - [ ] [node-cron](https://github.com/kelektiv/node-cron)
 - [ ] queue
   - [ ] [mqttjs](https://github.com/mqttjs/MQTT.js)
+  - [ ] [bull](https://github.com/OptimalBits/bull)
+- [ ] event
+  - [ ] [EventEmitter2](https://github.com/EventEmitter2/EventEmitter2)
 
 editor
 
