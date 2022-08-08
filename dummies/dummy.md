@@ -43,15 +43,23 @@ nodejs
     - [ ] vercel
     - [ ] heroku
 - [ ] express
-  - [ ] express-validator
-  - [ ] express-async-errors
-  - [ ] express-session
+  - [ ] [express-validator](https://github.com/express-validator/express-validator)
+  - [ ] [express-async-errors](https://www.npmjs.com/package/express-async-errors)
+  - [ ] [express-session](https://www.npmjs.com/package/express-session)
   - [ ] [helmetjs](https://helmetjs.github.io/)
+  - [ ] [compression](https://github.com/expressjs/compression)
+  - [ ] [multer](https://github.com/expressjs/multer)
+    - [ ] [multer-s3](https://github.com/anacronw/multer-s3)
   - [ ] template
     - [ ] pug
     - [ ] ejs
+- [ ] [fastify](https://github.com/fastify/fastify)
 - [ ] electron
-- [ ] rest/grapql
+- [ ] rest
+- [ ] grapql
+  - [x] upload
+    - [x] [file-uploads](https://www.apollographql.com/docs/apollo-server/data/file-uploads/)
+    - [x] [upload-client](https://github.com/jaydenseric/apollo-upload-client)
 - [ ] test
   - [ ] jest
   - [ ] suppertest
@@ -59,7 +67,6 @@ nodejs
   - [ ] loadtest
   - [x] [cypress](https://docs.cypress.io/)
   - [ ] [pactumjs](https://pactumjs.github.io/)
-- [ ] bunyan
 - [ ] redis
   - [ ] connect-redis
   - [ ] [ioredis](https://github.com/luin/ioredis)
@@ -84,6 +91,15 @@ nodejs
   - [ ] [bull](https://github.com/OptimalBits/bull)
 - [ ] event
   - [ ] [EventEmitter2](https://github.com/EventEmitter2/EventEmitter2)
+- [ ] logger
+  - [ ] [bunyan](https://github.com/trentm/node-bunyan)
+  - [ ] [winston](https://github.com/winstonjs/winston)
+- [ ] HTTP
+  - [ ] [axios](https://github.com/axios/axios)
+  - [ ] [got](https://github.com/sindresorhus/got)
+  - [ ] [undici](https://github.com/nodejs/undici)
+- [ ] documentation
+  - [ ] [docusaurus](https://github.com/facebook/docusaurus)
 
 editor
 
