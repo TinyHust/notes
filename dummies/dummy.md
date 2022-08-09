@@ -67,6 +67,7 @@ nodejs
   - [ ] loadtest
   - [x] [cypress](https://docs.cypress.io/)
   - [ ] [pactumjs](https://pactumjs.github.io/)
+  - [ ] [sinon](https://github.com/sinonjs/sinon)
 - [ ] redis
   - [ ] connect-redis
   - [ ] [ioredis](https://github.com/luin/ioredis)
@@ -100,6 +101,9 @@ nodejs
   - [ ] [undici](https://github.com/nodejs/undici)
 - [ ] documentation
   - [ ] [docusaurus](https://github.com/facebook/docusaurus)
+- [ ] dotenv
+  - [ ] [dotenv-cli](https://github.com/entropitor/dotenv-cli)
+  - [ ] [dotenv-expand](https://github.com/motdotla/dotenv-expand)
 
 editor
 
@@ -217,6 +221,7 @@ cloud
     - [ ] hosting
     - [ ] cloud function
 - [ ] github action
+  - [ ] [codeql](https://github.com/github/codeql-action)
 
 fe
 
@@ -269,7 +274,8 @@ WeakMap
 AudioContext  
 [WebAssembly](https://webassembly.org/)  
 [Web share](https://web.dev/web-share/)  
-check opengraph [opengraph.xyz](https://www.opengraph.xyz/)
+check opengraph [opengraph.xyz](https://www.opengraph.xyz/)  
+SSE [server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
 
 Unicode Text Converter  
 Firefox proxy: Proxy Toggle  
