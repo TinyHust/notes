@@ -121,6 +121,7 @@ queue
 
 - [ ] rabitmq
 - [ ] kafka
+  - [ ] [kafdrop](https://github.com/obsidiandynamics/kafdrop)
 - [ ] nats
 - [ ] azure service bus
 - [ ] grpc
@@ -156,6 +157,9 @@ go
 - [ ] db
   - [ ] [gorm](https://github.com/go-gorm/gorm)
   - [ ] [sqlx](https://github.com/jmoiron/sqlx)
+- [ ] env
+  - [ ] [godotenv](https://github.com/joho/godotenv)
+  - [ ] [viper](https://github.com/spf13/viper)
 
 js & misc
 
