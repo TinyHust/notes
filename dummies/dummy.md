@@ -104,6 +104,8 @@ nodejs
 - [ ] dotenv
   - [ ] [dotenv-cli](https://github.com/entropitor/dotenv-cli)
   - [ ] [dotenv-expand](https://github.com/motdotla/dotenv-expand)
+- [ ] Design Patterns
+  - [ ] [ref](https://www.patterns.dev/posts/introduction/)
 
 editor
 
