@@ -30,3 +30,4 @@ Azure Data Studio
 - solidity
 - Todo Tree
 - YAML
+- Material Icon Theme
