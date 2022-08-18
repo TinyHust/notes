@@ -71,18 +71,21 @@ nodejs
   - [x] [cypress](https://docs.cypress.io/)
   - [ ] [pactumjs](https://pactumjs.github.io/)
   - [ ] [sinon](https://github.com/sinonjs/sinon)
-- [ ] redis
-  - [ ] connect-redis
-  - [ ] [ioredis](https://github.com/luin/ioredis)
 - [ ] pm2
 - [ ] semver
-- [ ] knexjs
-- [ ] bookshelfjs
-- [ ] orm
-  - [ ] [sequelize](https://sequelize.org/)
-  - [ ] [prisma](https://www.prisma.io/)
-  - [ ] [typeorm](https://typeorm.io/)
-- [ ] [mongoosejs](https://mongoosejs.com/)
+- [ ] database
+  - [ ] knexjs
+  - [ ] bookshelfjs
+  - [ ] orm
+    - [ ] [sequelize](https://sequelize.org/)
+    - [ ] [prisma](https://www.prisma.io/)
+    - [ ] [typeorm](https://typeorm.io/)
+  - [ ] [mongoosejs](https://mongoosejs.com/)
+  - [ ] [elasticsearch-js](https://github.com/elastic/elasticsearch-js)
+    - [ ] [doc](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/examples.html)
+  - [ ] redis
+    - [ ] connect-redis
+    - [ ] [ioredis](https://github.com/luin/ioredis)
 - [ ] acl
   - [ ] [casl](https://github.com/stalniy/casl)
   - [ ] [accesscontrol](https://github.com/onury/accesscontrol)
@@ -138,6 +141,8 @@ db
 - [ ] postgresql
 - [ ] redis
 - [ ] elasticsearch
+  - [ ] [docker](https://www.elastic.co/guide/en/elastic-stack-get-started/8.2/get-started-stack-docker.html#run-docker-secure)
+  - [ ] [elasticsearch + kibana on docker](https://www.elastic.co/guide/en/elastic-stack-get-started/8.2/get-started-stack-docker.html)
 
 flutter
 
@@ -147,6 +152,7 @@ flutter
 python
 
 - [ ] flask
+- [ ] [erpnext](https://github.com/frappe/erpnext)
 
 collector daemon
 
