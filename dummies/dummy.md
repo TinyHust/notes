@@ -112,6 +112,11 @@ nodejs
   - [ ] [dotenv-expand](https://github.com/motdotla/dotenv-expand)
 - [ ] Design Patterns
   - [ ] [ref](https://www.patterns.dev/posts/introduction/)
+- [ ] OTP / 2FA
+  - [ ] [otplib](https://github.com/yeojz/otplib)
+  - [ ] [speakeasy](https://github.com/speakeasyjs/speakeasy)
+- [ ] qrcode
+  - [ ] [node-qrcode](https://github.com/soldair/node-qrcode)
 
 editor
 
