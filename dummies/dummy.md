@@ -117,6 +117,14 @@ nodejs
   - [ ] [speakeasy](https://github.com/speakeasyjs/speakeasy)
 - [ ] qrcode
   - [ ] [node-qrcode](https://github.com/soldair/node-qrcode)
+- [ ] zip
+  - [ ] [adm-zip](https://github.com/cthackers/adm-zip)
+- [ ] image process
+  - [ ] [imagemin](https://github.com/imagemin/imagemin)
+  - [ ] [pngquant](https://github.com/kornelski/pngquant)
+  - [ ] [imagemin-pngquant](https://github.com/imagemin/imagemin-pngquant)
+- [ ] monorepo
+  - [ ] [lerna](https://github.com/lerna/lerna)
 
 editor
 
