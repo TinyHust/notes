@@ -123,6 +123,7 @@ nodejs
   - [ ] [imagemin](https://github.com/imagemin/imagemin)
   - [ ] [pngquant](https://github.com/kornelski/pngquant)
   - [ ] [imagemin-pngquant](https://github.com/imagemin/imagemin-pngquant)
+  - [ ] [sharp](https://github.com/lovell/sharp)
 - [ ] monorepo
   - [ ] [lerna](https://github.com/lerna/lerna)
 
