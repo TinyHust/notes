@@ -57,9 +57,12 @@ nodejs
 - [ ] electron
 - [ ] rest
 - [ ] grapql
+  - [ ] [mercurius](https://github.com/mercurius-js/mercurius)
   - [x] upload
     - [x] [file-uploads](https://www.apollographql.com/docs/apollo-server/data/file-uploads/)
     - [x] [upload-client](https://github.com/jaydenseric/apollo-upload-client)
+  - [ ] [federation](https://www.apollographql.com/blog/announcement/apollo-federation-f260cf525d21/)
+  - [ ] [subscriptions](https://www.apollographql.com/docs/react/data/subscriptions/)
 - [ ] socket
   - [ ] [socket.io](https://socket.io/)
   - [ ] [ws](https://github.com/websockets/ws)
@@ -80,6 +83,8 @@ nodejs
     - [ ] [sequelize](https://sequelize.org/)
     - [ ] [prisma](https://www.prisma.io/)
     - [ ] [typeorm](https://typeorm.io/)
+      - [ ] [multiple data sources](https://orkhan.gitbook.io/typeorm/docs/multiple-data-sources)
+      - [ ] [read/write replication](https://orkhan.gitbook.io/typeorm/docs/multiple-data-sources#replication)
   - [ ] [mongoosejs](https://mongoosejs.com/)
   - [ ] [elasticsearch-js](https://github.com/elastic/elasticsearch-js)
     - [ ] [doc](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/examples.html)
@@ -207,6 +212,8 @@ js & misc
     - [x] [Form](https://formik.org/)
     - [ ] [react-loadable](https://github.com/jamiebuilds/react-loadable)
     - [ ] [react-query](https://react-query.tanstack.com/)
+    - [ ] [react-window](https://github.com/bvaughn/react-window)
+    - [ ] [react-virtualized](https://github.com/bvaughn/react-virtualized)
   - [ ] validation
     - [ ] [Yup](https://github.com/jquense/yup)
     - [ ] [joi](https://github.com/sideway/joi)
