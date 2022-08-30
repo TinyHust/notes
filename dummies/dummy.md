@@ -302,16 +302,8 @@ android emulator access local via: 10.0.2.2
 **terminology**:
 
 - CQRS
-- template string
-- [ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
-- Intersection Observer API [example](https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll)
-- onanimationend
-- WeakMap
-- AudioContext
 - [WebAssembly](https://webassembly.org/)
-- [Web share](https://web.dev/web-share/)
 - check opengraph [opengraph.xyz](https://www.opengraph.xyz/)
-- SSE [server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
 - [fluent style](https://en.wikipedia.org/wiki/Fluent_interface)
 
 Unicode Text Converter  

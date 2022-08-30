@@ -1,1 +1,10 @@
 - [Trailing commas](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Trailing_commas)
+- [currying](https://blog.logrocket.com/understanding-javascript-currying/)
+- SSE [server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
+- [Web share](https://web.dev/web-share/)
+- template string
+- [ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
+- Intersection Observer API [example](https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll)
+- onanimationend
+- WeakMap
+- AudioContext
