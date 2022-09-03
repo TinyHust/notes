@@ -6,8 +6,11 @@ on:
       - "examples/microservices/auth/**"
 
 jobs:
-  build:
+  build-auth:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: cd auth && npm install && npm run test:ci
+
+      - name: Test auth
+        working-directory: examples/microservices
+        run: cd auth && npm install && npm run test:ci
