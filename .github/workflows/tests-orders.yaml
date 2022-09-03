@@ -6,7 +6,7 @@ on:
       - "examples/microservices/orders/**"
 
 jobs:
-  build:
+  build-orders:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

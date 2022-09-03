@@ -6,7 +6,7 @@ on:
       - "examples/microservices/auth/**"
 
 jobs:
-  build:
+  build-auth:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
