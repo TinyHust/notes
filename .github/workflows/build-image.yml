@@ -16,7 +16,7 @@ concurrency:
 
 defaults:
   run:
-    working-directory: ./examples/microservices/auth
+    working-directory: examples/microservices/auth
 
 env:
   IMAGE_NAME: gh-nm-auth
@@ -70,10 +70,11 @@ jobs:
           docker push $IMAGE_ID:$VERSION
 
           # Set version fo output2
+          echo "Image version: ${VERSION}"
           echo "::set-output name=version::${VERSION}"
 
           # Fake fails
-          if [[ $(($RANDOM % 2)) == 0 ]]; then exit 0; else exit 1; fi
+          # if [[ $(($RANDOM % 2)) == 0 ]]; then exit 0; else exit 1; fi
 
       - name: The job has failed
         if: ${{ failure() }}
@@ -87,4 +88,5 @@ jobs:
 
     steps:
       - run: echo ${{needs.push.outputs.build_id}}
+      - run: echo ${{needs.push.outputs.version}}
       - run: echo ${{ secrets.PRODUCTION_SECRET }}
