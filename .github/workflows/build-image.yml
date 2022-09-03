@@ -16,7 +16,7 @@ concurrency:
 
 defaults:
   run:
-    working-directory: examples/microservices/auth
+    working-directory: ./examples/microservices/auth
 
 env:
   IMAGE_NAME: gh-nm-auth
@@ -75,6 +75,7 @@ jobs:
 
           # Fake fails
           # if [[ $(($RANDOM % 2)) == 0 ]]; then exit 0; else exit 1; fi
+          exit 1;
 
       - name: The job has failed
         if: ${{ failure() }}
@@ -84,9 +85,12 @@ jobs:
     runs-on: ubuntu-latest
     needs: [push]
     environment: production
-    if: ${{ success() && github.event_name == 'push' }}
+    if: ${{ github.event_name == 'push' }}
 
     steps:
+      - name: Checkout
+        id: checkout_step
+        uses: actions/checkout@v2
       - run: echo ${{needs.push.outputs.build_id}}
       - run: echo ${{needs.push.outputs.version}}
       - run: echo ${{ secrets.PRODUCTION_SECRET }}
