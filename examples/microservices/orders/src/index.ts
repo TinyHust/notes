@@ -46,7 +46,7 @@ const start = async () => {
       useUnifiedTopology: true,
       useCreateIndex: true,
     });
-    console.log("Connected to MongoDBB");
+    console.log("Connected to MongoDBB11");
   } catch (err) {
     console.error(err);
   }
