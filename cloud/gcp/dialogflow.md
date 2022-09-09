@@ -23,8 +23,8 @@ const projectId = "strapi-login-346512";
 const location = "us-central1";
 const agentId = "e4fb1664-3d82-4c7a-9de9-9d95db1ed4bb";
 const languageCode = "en";
-const encoding = "AUDIO_ENCODING_LINEAR_16";
-const sampleRateHertz = 16000;
+const encoding = "AUDIO_ENCODING_UNSPECIFIED"; //ref: https://googleapis.dev/java/google-cloud-dialogflow/latest/com/google/cloud/dialogflow/v2/AudioEncoding.html
+const sampleRateHertz = 48000;
 const sessionId = uuid();
 
 app.use(express.json({ limit: "50mb" }));
