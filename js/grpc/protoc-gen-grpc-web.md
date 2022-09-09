@@ -1,5 +1,10 @@
 ## install protoc with the JavaScript plugin and protoc-gen-grpc-web
 
+REF:
+
+- [https://www.aapelivuorinen.com/blog/2020/07/03/grpc-web-nginx-envoy/](https://www.aapelivuorinen.com/blog/2020/07/03/grpc-web-nginx-envoy/)
+- [https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs](https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs)
+
 ```bash
 export PROTOC_VERSION=3.12.3
 
