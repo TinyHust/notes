@@ -278,6 +278,7 @@ public localhost
 - [ ] [ngrok](https://ngrok.com/)
 - [ ] [telebit](https://telebit.cloud/)
 - [ ] [localtunnel](https://github.com/localtunnel/localtunnel)
+- [ ] [localhost.run](http://localhost.run/)
 
 ---
 
