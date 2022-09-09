@@ -66,6 +66,7 @@ nodejs
 - [ ] socket
   - [ ] [socket.io](https://socket.io/)
   - [ ] [ws](https://github.com/websockets/ws)
+  - [ ] [colyseus](https://github.com/colyseus/colyseus)
 - [ ] test
   - [ ] jest
   - [ ] suppertest
