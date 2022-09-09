@@ -17,7 +17,10 @@
             audio: true,
           })
           .then((stream) => {
-            recorder = new MediaRecorder(stream);
+            recorder = new MediaRecorder(stream, {
+              mimeType: "audio/webm",
+              bitsPerSecond: 100000,
+            });
             recorder.start(50);
 
             recorder.ondataavailable = (e) => {
@@ -33,12 +36,13 @@
         recorder.onstop = () => {
           if (recorder.state === "inactive") {
             const recordBlob = new Blob(recordedBits, {
-              type: "audio/mp3",
+              type: "audio/webm",
+              //type: "audio/mp3",
               //type: "audio/ogg; codecs=opus"
             });
 
-            const inputFile = new File([recordBlob], "input.mp3", {
-              type: "audio/mp3",
+            const inputFile = new File([recordBlob], "input.webm", {
+              type: "audio/webm",
             });
             
             const formData = new FormData();
