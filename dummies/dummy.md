@@ -296,8 +296,11 @@ REFs:
 [draw,chart,diagram](draw.io)  
 [free svg icon](https://www.visualpharm.com)  
 [rewrite content](https://quillbot.com/)  
-[white board](https://lucid.app/)  
-[white board](https://miro.com/)
+
+white board
+- [lucid](https://lucid.app/)
+- [miro](https://miro.com/)
+- [excalidraw](https://excalidraw.com/)
 
 android emulator access local via: 10.0.2.2
 
