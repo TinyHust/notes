@@ -296,8 +296,10 @@ REFs:
 [draw,chart,diagram](draw.io)  
 [free svg icon](https://www.visualpharm.com)  
 [rewrite content](https://quillbot.com/)  
+[diagram and flowchart](https://github.com/mermaid-js/mermaid)
 
 white board
+
 - [lucid](https://lucid.app/)
 - [miro](https://miro.com/)
 - [excalidraw](https://excalidraw.com/)
