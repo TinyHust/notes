@@ -56,7 +56,7 @@ nodejs
 - [ ] [fastify](https://github.com/fastify/fastify)
 - [ ] electron
 - [ ] rest
-- [ ] grapql
+- [ ] graphql
   - [ ] [mercurius](https://github.com/mercurius-js/mercurius)
   - [x] upload
     - [x] [file-uploads](https://www.apollographql.com/docs/apollo-server/data/file-uploads/)
@@ -132,6 +132,11 @@ nodejs
   - [ ] [sharp](https://github.com/lovell/sharp)
 - [ ] monorepo
   - [ ] [lerna](https://github.com/lerna/lerna)
+- [ ] pdf
+  - [ ] [jsPDF](https://github.com/parallax/jsPDF)
+  - [ ] [pdf-lib](https://pdf-lib.js.org/)
+  - [ ] [pdfkit](https://pdfkit.org/)
+  - [ ] [pdfmake](https://github.com/bpampuch/pdfmake)
 
 editor
 
