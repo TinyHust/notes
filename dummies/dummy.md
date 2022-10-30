@@ -56,7 +56,7 @@ nodejs
 - [ ] [fastify](https://github.com/fastify/fastify)
 - [ ] electron
 - [ ] rest
-- [ ] grapql
+- [ ] graphql
   - [ ] [mercurius](https://github.com/mercurius-js/mercurius)
   - [x] upload
     - [x] [file-uploads](https://www.apollographql.com/docs/apollo-server/data/file-uploads/)
@@ -132,6 +132,11 @@ nodejs
   - [ ] [sharp](https://github.com/lovell/sharp)
 - [ ] monorepo
   - [ ] [lerna](https://github.com/lerna/lerna)
+- [ ] pdf
+  - [ ] [jsPDF](https://github.com/parallax/jsPDF)
+  - [ ] [pdf-lib](https://pdf-lib.js.org/)
+  - [ ] [pdfkit](https://pdfkit.org/)
+  - [ ] [pdfmake](https://github.com/bpampuch/pdfmake)
 
 editor
 
@@ -244,6 +249,7 @@ js & misc
   - [ ] css
     - [ ] [styled components](https://www.styled-components.com/)
     - [ ] [tailwindcss](https://tailwindcss.com/)
+  - [ ] [patch-package](https://github.com/ds300/patch-package)
 
 cloud
 
@@ -296,8 +302,10 @@ REFs:
 [draw,chart,diagram](draw.io)  
 [free svg icon](https://www.visualpharm.com)  
 [rewrite content](https://quillbot.com/)  
+[diagram and flowchart](https://github.com/mermaid-js/mermaid)
 
 white board
+
 - [lucid](https://lucid.app/)
 - [miro](https://miro.com/)
 - [excalidraw](https://excalidraw.com/)
