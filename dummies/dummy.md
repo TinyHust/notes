@@ -102,6 +102,7 @@ nodejs
 - [ ] queue
   - [ ] [mqttjs](https://github.com/mqttjs/MQTT.js)
   - [ ] [bull](https://github.com/OptimalBits/bull)
+  - [ ] [bree](https://github.com/breejs/bree)
 - [ ] event
   - [ ] [EventEmitter2](https://github.com/EventEmitter2/EventEmitter2)
 - [ ] logger
