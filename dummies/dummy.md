@@ -250,6 +250,7 @@ js & misc
   - [ ] css
     - [ ] [styled components](https://www.styled-components.com/)
     - [ ] [tailwindcss](https://tailwindcss.com/)
+  - [ ] [patch-package](https://github.com/ds300/patch-package)
 
 cloud
 
