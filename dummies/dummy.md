@@ -209,7 +209,9 @@ js & misc
 - [ ] libs
   - [ ] [emotion](https://github.com/emotion-js/emotion)
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
-  - [ ] [faker](https://github.com/marak/Faker.js/)
+  - [ ] fake data
+    - [faker](https://github.com/faker-js/faker)
+    - [https://github.com/ngneat/falso](https://github.com/ngneat/falso)
   - [ ] D3
   - [ ] [pannorama](https://pannellum.org/)
   - [ ] [timeframe](https://github.com/ariaminaei/theatre)
