@@ -253,6 +253,9 @@ js & misc
     - [ ] [styled components](https://www.styled-components.com/)
     - [ ] [tailwindcss](https://tailwindcss.com/)
   - [ ] [patch-package](https://github.com/ds300/patch-package)
+  - [ ] google maps
+    - [ ] [react google maps](https://www.npmjs.com/package/@react-google-maps/api)
+    - [ ] [angular google maps](https://www.npmjs.com/package/@angular/google-maps)
 
 cloud
 
