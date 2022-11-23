@@ -102,6 +102,7 @@ nodejs
 - [ ] queue
   - [ ] [mqttjs](https://github.com/mqttjs/MQTT.js)
   - [ ] [bull](https://github.com/OptimalBits/bull)
+  - [ ] [bree](https://github.com/breejs/bree)
 - [ ] event
   - [ ] [EventEmitter2](https://github.com/EventEmitter2/EventEmitter2)
 - [ ] logger
@@ -208,7 +209,9 @@ js & misc
 - [ ] libs
   - [ ] [emotion](https://github.com/emotion-js/emotion)
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
-  - [ ] [faker](https://github.com/marak/Faker.js/)
+  - [ ] fake data
+    - [faker](https://github.com/faker-js/faker)
+    - [https://github.com/ngneat/falso](https://github.com/ngneat/falso)
   - [ ] D3
   - [ ] [pannorama](https://pannellum.org/)
   - [ ] [timeframe](https://github.com/ariaminaei/theatre)
@@ -250,6 +253,9 @@ js & misc
     - [ ] [styled components](https://www.styled-components.com/)
     - [ ] [tailwindcss](https://tailwindcss.com/)
   - [ ] [patch-package](https://github.com/ds300/patch-package)
+  - [ ] google maps
+    - [ ] [react google maps](https://www.npmjs.com/package/@react-google-maps/api)
+    - [ ] [angular google maps](https://www.npmjs.com/package/@angular/google-maps)
 
 cloud
 

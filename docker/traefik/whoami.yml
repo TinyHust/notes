@@ -1,0 +1,19 @@
+version: '3.5'
+
+services:
+  whoami:
+    image: containous/whoami:latest
+    networks:
+      - reverse-proxy
+      - whoami-network
+    labels:
+      - "traefik.enable=true"
+      - "traefik.port=80"
+      - "traefik.frontend.rule=Host:whoami.traefik.localhost"
+
+networks:
+  reverse-proxy:
+    external: true
+  whoami-network:
+    name: whoami
+
