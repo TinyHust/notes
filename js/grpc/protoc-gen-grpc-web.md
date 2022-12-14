@@ -24,6 +24,9 @@ echo 'export PATH=$PATH:/home/toanld/Downloads/bin' >> ~/.bashrc
 
 source ~/.bashrc
 
+# check version
+protoc --version
+
 # goto project
 protoc -I=/home/toanld/sources/samples/grpc/client/src chat.proto --js_out=import_style=commonjs,binary:. --grpc-web_out=import_style=commonjs,mode=grpcwebtext:.
 ```
