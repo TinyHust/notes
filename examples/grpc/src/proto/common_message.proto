@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+package common;
+
+option go_package = ".;pb";
+
+message Status {
+  bool status = 1;
+}
+
+message ExpiryTime {
+  uint64 expiry_time = 1;
+}
+
+message PageRequest {
+  uint64 page = 1;
+  uint64 page_size = 2;
+}
+
+message PageResponse {
+  uint64 total = 1;
+}
+

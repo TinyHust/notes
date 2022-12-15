@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package whitelist;
+
+option go_package = ".;pb";
+
+import "src/proto/common_message.proto";
+
+message WhitelistInfo {
+  string address = 2;
+  string username = 3;
+  string email = 4;
+  string phone_number = 5;
+}
+
+message GetListWhitelistResponse {
+  repeated WhitelistInfo whitelistsInfo = 1;
+  common.PageResponse pagination = 2;
+}
+
+message GetListWhitelistRequest {
+  uint64 network_id = 1;
+  common.PageRequest pagination = 2;
+}
+
+service WhitelistService {
+  rpc GetListWhitelist(GetListWhitelistRequest) returns (GetListWhitelistResponse) {};
+}
