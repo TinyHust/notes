@@ -20,6 +20,7 @@ devops
 - [ ] skaffold
 - [ ] efk
 - [ ] elk
+- [ ] [prometheus](https://github.com/prometheus/prometheus)
 
 cicd
 
@@ -256,6 +257,9 @@ js & misc
   - [ ] google maps
     - [ ] [react google maps](https://www.npmjs.com/package/@react-google-maps/api)
     - [ ] [angular google maps](https://www.npmjs.com/package/@angular/google-maps)
+  - [ ] unclassified
+    - [ ] [astro](https://astro.build/)
+    - [ ] [vite](https://vitejs.dev/)
 
 cloud
 
