@@ -1,0 +1,26 @@
+service: sqs-consumer
+
+provider:
+  name: aws
+  stage: ${opt:stage, 'dev'}
+  runtime: nodejs16.x
+  region: us-east-1
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+        - "lambda:InvokeFunction"
+        - "lambda:InvokeAsync"
+      Resource: "*"
+
+package:
+  exclude:
+    - node_modules/aws-sdk/**
+
+functions:
+  extract:
+    handler: index.handler
+    timeout: 90
+    memorySize: 1024
+    ephemeralStorageSize: 1024
+    events:
+      - sqs: arn:aws:sqs:us-east-1:061605309083:test-sqs

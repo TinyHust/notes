@@ -1,0 +1,18 @@
+service: child-sqs-consumer
+
+provider:
+  name: aws
+  stage: ${opt:stage, 'dev'}
+  runtime: nodejs16.x
+  region: us-east-1
+
+package:
+  exclude:
+    - node_modules/aws-sdk/**
+
+functions:
+  extract:
+    handler: index.handler
+    timeout: 90
+    memorySize: 1024
+    ephemeralStorageSize: 1024
