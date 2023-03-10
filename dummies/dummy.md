@@ -267,6 +267,7 @@ cloud
 
 - [ ] aws
   - [ ] lambda function
+  - [ ] [cdk](https://github.com/aws/aws-cdk)
 - [ ] gcp
   - [ ] firebase
     - [ ] firestore
@@ -277,6 +278,8 @@ cloud
     - [ ] cloud function
 - [ ] github action
   - [ ] [codeql](https://github.com/github/codeql-action)
+- serverless
+  - [ ] [lift](https://github.com/getlift/lift)
 
 fe
 
