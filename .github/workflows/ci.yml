@@ -1,9 +1,9 @@
 name: Test coverage
 
 on:
-  push:
+  pull_request:
     branches:
-      - dev
+      - main
 
 concurrency:
   group: ${{ github.head_ref || github.run_id }}
@@ -11,7 +11,7 @@ concurrency:
 
 jobs:
   test:
-    name: Test
+    name: Test coverage
     runs-on: ubuntu-latest
     if: ${{ contains(github.event.head_commit.message, 'test coverage') }}
     steps:
