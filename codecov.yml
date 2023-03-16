@@ -1,7 +1,25 @@
+codecov:
+  branch: main
+
 coverage:
   status:
-    project: off
-    patch: off
+    project:
+      default:
+        target: 100%
+        threshold: 80%
+  precision: 2
+  round: down
+  range: "40...100"
+
+comment:
+  layout: "header, diff, flags, components"
+
+component_management:
+  individual_components:
+    - component_id: dummy-test
+      name: dummy-test
+      paths:
+        - ./
 
 flag_management:
   individual_flags:

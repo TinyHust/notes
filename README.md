@@ -8,6 +8,7 @@
 [![Issues][issues-shield]][issues-url]  
 [![Build Status](https://app.travis-ci.com/TinyHust/notes.svg?branch=main)](https://app.travis-ci.com/TinyHust/notes)
 [![Coverage Status](https://coveralls.io/repos/github/TinyHust/notes/badge.svg?branch=main)](https://coveralls.io/github/TinyHust/notes?branch=main)
+[![codecov](https://codecov.io/github/TinyHust/notes/branch/main/graph/badge.svg?token=3E42VDQQR7)](https://codecov.io/github/TinyHust/notes)
 [![Build](https://github.com/TinyHust/notes/actions/workflows/build-image.yml/badge.svg)](https://github.com/TinyHust/notes/actions?workflow=build-image)
 [![Stale](https://img.shields.io/github/workflow/status/TinyHust/notes/Mark%20stale%20issues%20and%20pull%20requests?color=blue&label=Stale&logo=github&logoColor=orange)](https://github.com/TinyHust/notes/actions?workflow=stale)  
 [![](https://data.jsdelivr.com/v1/package/gh/TinyHust/notes/badge)](https://www.jsdelivr.com/package/gh/TinyHust/notes)
