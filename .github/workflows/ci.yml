@@ -1,0 +1,26 @@
+name: Test coverage
+
+on:
+  pull_request:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Test coverage
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+      - name: Install requirements
+        run: npm install
+      - name: Run tests and collect coverage
+        run: npm run test:codecov
+      - name: Upload coverage reports to Codecov with GitHub Action
+        uses: codecov/codecov-action@v2

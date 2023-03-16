@@ -1,0 +1,16 @@
+{
+  "name": "child-sqs-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "deploy": "serverless deploy --aws-profile toanld",
+    "remove": "serverless remove --aws-profile toanld"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1230.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

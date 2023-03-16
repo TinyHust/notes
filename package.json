@@ -8,10 +8,13 @@
   },
   "scripts": {
     "test": "jest test",
+    "test:codecov": "jest --collectCoverage",
     "test:coverage": "jest --coverage && coveralls < coverage/lcov.info"
   },
   "jest": {
-    "testPathIgnorePatterns": ["<rootDir>/examples/microservices/auth"]
+    "testPathIgnorePatterns": [
+      "<rootDir>/examples/microservices"
+    ]
   },
   "repository": {
     "type": "git",

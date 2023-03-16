@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>HTML Forms</h2>
+
+    <form id="contactForm" action="https://script.google.com/macros/s/AKfycbysmP5gad8XWvsTNOC5xUQE33Phf5pM0EaVpNrg5FmfyI8Vrg7f632YlThhXcosQQCguQ/exec" method="post">
+      <label for="Name">Name:</label><br />
+      <input type="text" id="Name" name="name" value="John" /><br />
+      <label for="Email">Email:</label><br />
+      <input type="text" id="Email" name="email" value="test@gmail.com" /><br />
+      <label for="Message">Message:</label><br />
+      <input type="text" id="Message" name="message" value="Message" /><br /><br />
+      <input type="submit" value="Submit" />
+    </form>
+
+    <script>
+      const s = document.body.querySelector("#contactForm");
+      s.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const f = new FormData(s);
+        fetch(s.action, { method: "POST", body: e })
+          .then((e) => {
+            console.log(e);
+            if (!e.ok) {
+              console.log("fail");
+            } else {
+              console.log("success");
+            }
+          })
+          .catch((e) => {
+            console.log("error");
+          });
+      });
+    </script>
+  </body>
+</html>

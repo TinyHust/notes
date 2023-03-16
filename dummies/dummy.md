@@ -20,6 +20,7 @@ devops
 - [ ] skaffold
 - [ ] efk
 - [ ] elk
+- [ ] [prometheus](https://github.com/prometheus/prometheus)
 
 cicd
 
@@ -102,6 +103,7 @@ nodejs
 - [ ] queue
   - [ ] [mqttjs](https://github.com/mqttjs/MQTT.js)
   - [ ] [bull](https://github.com/OptimalBits/bull)
+  - [ ] [bree](https://github.com/breejs/bree)
 - [ ] event
   - [ ] [EventEmitter2](https://github.com/EventEmitter2/EventEmitter2)
 - [ ] logger
@@ -208,7 +210,9 @@ js & misc
 - [ ] libs
   - [ ] [emotion](https://github.com/emotion-js/emotion)
   - [ ] [storybook](https://github.com/storybookjs/storybook/)
-  - [ ] [faker](https://github.com/marak/Faker.js/)
+  - [ ] fake data
+    - [faker](https://github.com/faker-js/faker)
+    - [https://github.com/ngneat/falso](https://github.com/ngneat/falso)
   - [ ] D3
   - [ ] [pannorama](https://pannellum.org/)
   - [ ] [timeframe](https://github.com/ariaminaei/theatre)
@@ -249,12 +253,21 @@ js & misc
   - [ ] css
     - [ ] [styled components](https://www.styled-components.com/)
     - [ ] [tailwindcss](https://tailwindcss.com/)
+  - [ ] chart
+    - [ ] [react-flow](https://github.com/wbkd/react-flow)
   - [ ] [patch-package](https://github.com/ds300/patch-package)
+  - [ ] google maps
+    - [ ] [react google maps](https://www.npmjs.com/package/@react-google-maps/api)
+    - [ ] [angular google maps](https://www.npmjs.com/package/@angular/google-maps)
+  - [ ] unclassified
+    - [ ] [astro](https://astro.build/)
+    - [ ] [vite](https://vitejs.dev/)
 
 cloud
 
 - [ ] aws
   - [ ] lambda function
+  - [ ] [cdk](https://github.com/aws/aws-cdk)
 - [ ] gcp
   - [ ] firebase
     - [ ] firestore
@@ -265,6 +278,8 @@ cloud
     - [ ] cloud function
 - [ ] github action
   - [ ] [codeql](https://github.com/github/codeql-action)
+- serverless
+  - [ ] [lift](https://github.com/getlift/lift)
 
 fe
 
@@ -277,6 +292,8 @@ docs
 - [ ] [redoc](https://github.com/Redocly/redoc)
 - [ ] [swagger](https://swagger.io/)
 - [ ] [gitbook](https://www.gitbook.com/)
+- [ ] [docusaurus](https://docusaurus.io/)
+  - [ ] [https://github.com/wbkd/react-flow-docs](https://github.com/wbkd/react-flow-docs)
 
 ---
 
