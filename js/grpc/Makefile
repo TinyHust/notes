@@ -20,3 +20,12 @@ gen-pb-vendor:
 gen-pb-google:
 	protoc --proto_path=src/proto --js_out=import_style=commonjs,binary:./src/proto \
   	--grpc-web_out=import_style=commonjs,mode=grpcweb:./src/proto src/*.proto
+	
+gen-pb-single:
+	protoc \
+	-I src/proto \
+	-I src/proto/google/api \
+	-I src/proto/protoc-gen-openapiv2/options \
+	--js_out=import_style=commonjs,binary:src/proto \
+	--grpc-web_out=import_style=commonjs,mode=grpcweb:src/proto \
+	src/proto/action_service.proto
