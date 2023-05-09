@@ -23,4 +23,4 @@ functions:
     memorySize: 1024
     ephemeralStorageSize: 1024
     events:
-      - sqs: arn:aws:sqs:us-east-1:061605309083:test-sqs
+      - sqs: arn:aws:sqs:us-east-1:0616053xxxxx:test-sqs
