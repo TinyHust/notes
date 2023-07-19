@@ -82,3 +82,6 @@ systemctl restart containerd
 kubeadm join 172.16.10.100:6443 --token k23x8h.ht95c4tioii0r6gh \
 	--discovery-token-ca-cert-hash sha256:8429bc1f7f80f8487f39c4b2ae40ad579ba3813755790179aac4afa6dab02d98
 ```
+---
+## Use minikube instead of create node with vagrant
+[REF](https://minikube.sigs.k8s.io/docs/start/)
