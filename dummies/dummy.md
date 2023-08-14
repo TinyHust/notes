@@ -260,6 +260,8 @@ js & misc
   - [ ] google maps
     - [ ] [react google maps](https://www.npmjs.com/package/@react-google-maps/api)
     - [ ] [angular google maps](https://www.npmjs.com/package/@angular/google-maps)
+  - [ ] panorama
+    - [ ] [marzipano](https://github.com/google/marzipano)
   - [ ] unclassified
     - [ ] [astro](https://astro.build/)
     - [ ] [vite](https://vitejs.dev/)
