@@ -215,7 +215,6 @@ js & misc
     - [faker](https://github.com/faker-js/faker)
     - [https://github.com/ngneat/falso](https://github.com/ngneat/falso)
   - [ ] D3
-  - [ ] [pannorama](https://pannellum.org/)
   - [ ] [timeframe](https://github.com/ariaminaei/theatre)
   - [ ] React
     - [ ] [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
@@ -262,6 +261,7 @@ js & misc
     - [ ] [angular google maps](https://www.npmjs.com/package/@angular/google-maps)
   - [ ] panorama
     - [ ] [marzipano](https://github.com/google/marzipano)
+    - [ ] [pannellum](https://pannellum.org/)
   - [ ] unclassified
     - [ ] [astro](https://astro.build/)
     - [ ] [vite](https://vitejs.dev/)
