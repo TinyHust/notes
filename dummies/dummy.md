@@ -87,6 +87,8 @@ nodejs
     - [ ] [typeorm](https://typeorm.io/)
       - [ ] [multiple data sources](https://orkhan.gitbook.io/typeorm/docs/multiple-data-sources)
       - [ ] [read/write replication](https://orkhan.gitbook.io/typeorm/docs/multiple-data-sources#replication)
+    - [ ] [objection.js](https://github.com/vincit/objection.js)
+    - [ ] [mikroorm](https://github.com/mikro-orm/mikro-orm)
   - [ ] [mongoosejs](https://mongoosejs.com/)
   - [ ] [elasticsearch-js](https://github.com/elastic/elasticsearch-js)
     - [ ] [doc](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/examples.html)
