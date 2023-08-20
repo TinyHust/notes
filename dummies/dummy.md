@@ -112,6 +112,7 @@ nodejs
 - [ ] logger
   - [ ] [bunyan](https://github.com/trentm/node-bunyan)
   - [ ] [winston](https://github.com/winstonjs/winston)
+  - [ ] [morgan](https://www.npmjs.com/package/morgan)
 - [ ] HTTP
   - [ ] [axios](https://github.com/axios/axios)
   - [ ] [got](https://github.com/sindresorhus/got)
