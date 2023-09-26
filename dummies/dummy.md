@@ -73,6 +73,7 @@ nodejs
   - [ ] suppertest
   - [ ] autocannon
   - [ ] loadtest
+  - [ ] [clinic](https://clinicjs.org/)
   - [x] [cypress](https://docs.cypress.io/)
   - [ ] [pactumjs](https://pactumjs.github.io/)
   - [ ] [sinon](https://github.com/sinonjs/sinon)
