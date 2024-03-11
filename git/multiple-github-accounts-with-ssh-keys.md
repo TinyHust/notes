@@ -22,6 +22,7 @@ Host github.com-mediumhust
 
 ### add ssh private keys to your agent
 ```
+eval `ssh-agent -s`
 ssh-add ~/.ssh/id_rsa
 ssh-add ~/.ssh/medium/id_rsa
 ```

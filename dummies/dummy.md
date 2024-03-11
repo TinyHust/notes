@@ -73,6 +73,7 @@ nodejs
   - [ ] suppertest
   - [ ] autocannon
   - [ ] loadtest
+  - [ ] [clinic](https://clinicjs.org/)
   - [x] [cypress](https://docs.cypress.io/)
   - [ ] [pactumjs](https://pactumjs.github.io/)
   - [ ] [sinon](https://github.com/sinonjs/sinon)
@@ -87,6 +88,8 @@ nodejs
     - [ ] [typeorm](https://typeorm.io/)
       - [ ] [multiple data sources](https://orkhan.gitbook.io/typeorm/docs/multiple-data-sources)
       - [ ] [read/write replication](https://orkhan.gitbook.io/typeorm/docs/multiple-data-sources#replication)
+    - [ ] [objection.js](https://github.com/vincit/objection.js)
+    - [ ] [mikroorm](https://github.com/mikro-orm/mikro-orm)
   - [ ] [mongoosejs](https://mongoosejs.com/)
   - [ ] [elasticsearch-js](https://github.com/elastic/elasticsearch-js)
     - [ ] [doc](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/examples.html)
@@ -104,11 +107,13 @@ nodejs
   - [ ] [mqttjs](https://github.com/mqttjs/MQTT.js)
   - [ ] [bull](https://github.com/OptimalBits/bull)
   - [ ] [bree](https://github.com/breejs/bree)
+  - [ ] [agenda](https://github.com/agenda/agenda)
 - [ ] event
   - [ ] [EventEmitter2](https://github.com/EventEmitter2/EventEmitter2)
 - [ ] logger
   - [ ] [bunyan](https://github.com/trentm/node-bunyan)
   - [ ] [winston](https://github.com/winstonjs/winston)
+  - [ ] [morgan](https://www.npmjs.com/package/morgan)
 - [ ] HTTP
   - [ ] [axios](https://github.com/axios/axios)
   - [ ] [got](https://github.com/sindresorhus/got)
@@ -214,7 +219,6 @@ js & misc
     - [faker](https://github.com/faker-js/faker)
     - [https://github.com/ngneat/falso](https://github.com/ngneat/falso)
   - [ ] D3
-  - [ ] [pannorama](https://pannellum.org/)
   - [ ] [timeframe](https://github.com/ariaminaei/theatre)
   - [ ] React
     - [ ] [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
@@ -259,6 +263,9 @@ js & misc
   - [ ] google maps
     - [ ] [react google maps](https://www.npmjs.com/package/@react-google-maps/api)
     - [ ] [angular google maps](https://www.npmjs.com/package/@angular/google-maps)
+  - [ ] panorama
+    - [ ] [marzipano](https://github.com/google/marzipano)
+    - [ ] [pannellum](https://pannellum.org/)
   - [ ] unclassified
     - [ ] [astro](https://astro.build/)
     - [ ] [vite](https://vitejs.dev/)
