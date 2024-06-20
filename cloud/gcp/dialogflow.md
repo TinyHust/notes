@@ -42,7 +42,7 @@ const sessionClient = new SessionsClient({
   //keyFilename: Path.join(__dirname, "./serviceaccounts-key.json"),
   credentials: {
     private_key: "",
-    client_email: "toanld@strapi-login-346512.iam.gserviceaccount.com",
+    client_email: "username@strapi-login-346512.iam.gserviceaccount.com",
   },
 });
 
