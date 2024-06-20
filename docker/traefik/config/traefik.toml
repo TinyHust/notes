@@ -10,7 +10,7 @@ defaultEntryPoints = ["https","http"]
   [entryPoints.https.tls]
 
 [acme]
-email = "toanld@smartosc.com"
+email = "username@org.com"
 storage = "acme.json"
 entryPoint = "https"
 onHostRule = true
