@@ -16,11 +16,11 @@ export GRPC_WEB_VERSION=1.2.0
 
 wget -O protoc-gen-grpc-web https://github.com/grpc/grpc-web/releases/download/$GRPC_WEB_VERSION/protoc-gen-grpc-web-$GRPC_WEB_VERSION-linux-x86_64
 
-mv ./protoc-gen-grpc-web /home/toanld/Downloads/bin
+mv ./protoc-gen-grpc-web /home/username/Downloads/bin
 
-chmod +x /home/toanld/Downloads/bin/protoc-gen-grpc-web
+chmod +x /home/username/Downloads/bin/protoc-gen-grpc-web
 
-echo 'export PATH=$PATH:/home/toanld/Downloads/bin' >> ~/.bashrc
+echo 'export PATH=$PATH:/home/username/Downloads/bin' >> ~/.bashrc
 
 source ~/.bashrc
 
@@ -28,5 +28,5 @@ source ~/.bashrc
 protoc --version
 
 # goto project
-protoc -I=/home/toanld/sources/samples/grpc/client/src chat.proto --js_out=import_style=commonjs,binary:. --grpc-web_out=import_style=commonjs,mode=grpcwebtext:.
+protoc -I=/home/username/sources/samples/grpc/client/src chat.proto --js_out=import_style=commonjs,binary:. --grpc-web_out=import_style=commonjs,mode=grpcwebtext:.
 ```
