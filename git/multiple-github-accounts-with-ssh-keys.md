@@ -7,8 +7,8 @@ ssh-keygen -t rsa -b 4096 -C "medium.hust.lee@gmail.com"
 
 ### edit/create ssh config file (~/.ssh/config)
 ```
-#toanld3 account
-Host github.com-toanld3
+#username3 account
+Host github.com-username3
 	HostName github.com
 	User git
 	IdentityFile ~/.ssh/id_rsa
@@ -29,7 +29,7 @@ ssh-add ~/.ssh/medium/id_rsa
 
 ### test connection
 ```
-ssh -T git@github.com-toanld3
+ssh -T git@github.com-username3
 ssh -T git@github.com-mediumhust
 ```
 If everything is OK, will see these messages:
