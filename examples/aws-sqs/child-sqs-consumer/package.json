@@ -4,8 +4,8 @@
   "description": "",
   "main": "handler.js",
   "scripts": {
-    "deploy": "serverless deploy --aws-profile toanld",
-    "remove": "serverless remove --aws-profile toanld"
+    "deploy": "serverless deploy --aws-profile username",
+    "remove": "serverless remove --aws-profile username"
   },
   "dependencies": {
     "aws-sdk": "^2.1230.0"
