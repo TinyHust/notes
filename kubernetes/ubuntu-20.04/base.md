@@ -58,7 +58,7 @@ kubectl apply -f https://docs.projectcalico.org/v3.19/manifests/calico.yaml
 ```bash
 kubectl config view
 scp root@172.16.10.100:/etc/kubernetes/admin.conf ~/.kube/config-mycluster
-export KUBECONFIG=/home/toanld/.kube/config-mycluster
+export KUBECONFIG=/home/username/.kube/config-mycluster
 
 # kubectl config use-context kubernetes-admin@kubernetes
 ```
