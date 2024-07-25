@@ -290,6 +290,8 @@ puts markdown.to_html
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
+[![Star History Chart](https://api.star-history.com/svg?repos=TinyHust/notes&type=Date)](https://star-history.com/#TinyHust/notes&Date)
+
 <!-- [![avatar][product-screenshot]][license-url] -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
