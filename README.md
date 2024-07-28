@@ -1,4 +1,4 @@
-# hi, my Dummy Notes :baby_chick:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&pause=1000&color=3A599A&width=435&lines=hi%2C+my+Dummy+Notes+%F0%9F%90%A4)](https://git.io/typing-svg)
 
 <!-- PROJECT SHIELDS -->
 
