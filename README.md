@@ -24,7 +24,7 @@
   <h3 align="center">Dummy Notes</h3>
 
   <p align="center">
-    Dummy Notes!
+    Dummy Notes! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
     <br />
     <a href="https://github.com/TinyHust/notes"><strong>Explore the notes »</strong></a>
     <br />
