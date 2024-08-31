@@ -1,4 +1,4 @@
-# hi, my Dummy Notes :baby_chick:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&pause=1000&color=3A599A&width=435&lines=hi%2C+my+Dummy+Notes+%F0%9F%90%A4)](https://git.io/typing-svg)
 
 <!-- PROJECT SHIELDS -->
 
@@ -24,7 +24,7 @@
   <h3 align="center">Dummy Notes</h3>
 
   <p align="center">
-    Dummy Notes!
+    Dummy Notes! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
     <br />
     <a href="https://github.com/TinyHust/notes"><strong>Explore the notes »</strong></a>
     <br />
@@ -289,6 +289,8 @@ puts markdown.to_html
 ---
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TinyHust/notes&type=Date)](https://star-history.com/#TinyHust/notes&Date)
 
 <!-- [![avatar][product-screenshot]][license-url] -->
 
