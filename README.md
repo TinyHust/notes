@@ -6,6 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]  
+[![Discussions][discussions-shield]][discussions-url]  
 [![Build Status](https://app.travis-ci.com/TinyHust/notes.svg?branch=main)](https://app.travis-ci.com/TinyHust/notes)
 [![Coverage Status](https://coveralls.io/repos/github/TinyHust/notes/badge.svg?branch=main)](https://coveralls.io/github/TinyHust/notes?branch=main)
 [![codecov](https://codecov.io/github/TinyHust/notes/branch/main/graph/badge.svg?token=3E42VDQQR7)](https://codecov.io/github/TinyHust/notes)
@@ -303,7 +304,9 @@ puts markdown.to_html
 [stars-shield]: https://img.shields.io/github/stars/TinyHust/notes.svg?style=for-the-badge
 [stars-url]: https://github.com/TinyHust/notes/stargazers
 [issues-shield]: https://img.shields.io/github/issues/TinyHust/notes.svg?style=for-the-badge
+[discussions-shield]: https://img.shields.io/github/discussions/TinyHust/notes.svg?style=for-the-badge
 [issues-url]: https://github.com/TinyHust/notes/issues
+[discussions-url]: https://github.com/TinyHust/notes/discussions
 [license-shield]: https://img.shields.io/github/license/TinyHust/notes.svg?style=for-the-badge
 [license-url]: https://github.com/TinyHust/notes/
 [product-screenshot]: dummies/default-avatar.png
