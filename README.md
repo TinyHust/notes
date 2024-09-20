@@ -292,6 +292,7 @@ puts markdown.to_html
 <!-- END YOUTUBE-CARDS -->
 
 [![Star History Chart](https://api.star-history.com/svg?repos=TinyHust/notes&type=Date)](https://star-history.com/#TinyHust/notes&Date)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mediumhust&no-bg=true&no-frame=true&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=mediumhust&no-bg=true&no-frame=true&theme=gruvbox)
 
 <!-- [![avatar][product-screenshot]][license-url] -->
 
