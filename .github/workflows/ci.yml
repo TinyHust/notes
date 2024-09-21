@@ -40,7 +40,7 @@ concurrency:
 jobs:
   log-the-inputs:
     runs-on: ubuntu-latest
-    # if: ${{ github.event.inputs.logLevel == 'debug' || inputs.logLevel2 == 'trigger' }}
+    if: ${{ github.event.inputs.logLevel == 'debug' || inputs.logLevel2 == 'trigger' }}
     steps:
       - run: |
           echo "Log level: $LEVEL"
