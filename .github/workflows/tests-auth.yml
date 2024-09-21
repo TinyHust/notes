@@ -42,6 +42,10 @@ jobs:
           cd auth && npm install && npm run test:ci
         env:
           LEVEL: ${{ inputs.logLevel }}
-      - uses: TinyHust/notes/.github/workflows/ci.yml@main
-        with:
-          logLevel2: ${{ inputs.logLevel }}
+
+  trigger-ci:
+    needs:
+      - build-auth
+    uses: TinyHust/notes/.github/workflows/ci.yml@main
+    with:
+      logLevel2: ${{ inputs.logLevel }}
