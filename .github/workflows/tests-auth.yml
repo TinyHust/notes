@@ -34,7 +34,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-          logLevel: ${{ inputs.logLevel }}
 
       - name: Test auth
         working-directory: examples/microservices
@@ -43,3 +42,6 @@ jobs:
           cd auth && npm install && npm run test:ci
         env:
           LEVEL: ${{ inputs.logLevel }}
+      - name: Pass input
+        with:
+          logLevel: 'trigger'
