@@ -16,7 +16,7 @@ on:
         options:
         - info
         - warning
-        - debug
+        - trigger
 
 jobs:
   build-auth:
@@ -29,14 +29,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          logLevel: ${{ inputs.logLevel }}
 
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+          logLevel: ${{ inputs.logLevel }}
 
       - name: Test auth
         working-directory: examples/microservices
-        run: cd auth && npm install && npm run test:ci
+        run: |
+          echo "Log level: $LEVEL"
+          cd auth && npm install && npm run test:ci
+        env:
+          LEVEL: ${{ inputs.logLevel }}
