@@ -40,14 +40,16 @@ concurrency:
 jobs:
   log-the-inputs:
     runs-on: ubuntu-latest
-    # if: ${{ github.event.inputs.logLevel == 'debug' || inputs.logLevel == 'trigger' }}
+    # if: ${{ github.event.inputs.logLevel == 'debug' || inputs.logLevel2 == 'trigger' }}
     steps:
       - run: |
           echo "Log level: $LEVEL"
+          echo "Log level2: $LEVEL2"
           echo "Tags: $TAGS"
           echo "Environment: $ENVIRONMENT"
         env:
           LEVEL: ${{ inputs.logLevel }}
+          LEVEL2: ${{ inputs.logLevel2 }}
           TAGS: ${{ inputs.tags }}
           ENVIRONMENT: ${{ inputs.environment }}
           
