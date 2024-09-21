@@ -29,7 +29,7 @@ on:
   #     - requested
   workflow_call:
     inputs:
-      logLevel:
+      logLevel2:
         required: true
         type: string
 
