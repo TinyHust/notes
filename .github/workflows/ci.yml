@@ -23,10 +23,10 @@ on:
         description: 'Environment to run tests against'
         type: environment
         required: true
-  workflow_run:
-    workflows: [tests-auth]
-    types:
-      - requested
+  # workflow_run:
+  #   workflows: [tests-auth]
+  #   types:
+  #     - requested
   workflow_call:
     inputs:
       logLevel:
