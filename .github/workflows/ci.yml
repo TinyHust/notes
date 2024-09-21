@@ -31,6 +31,7 @@ concurrency:
 jobs:
   log-the-inputs:
     runs-on: ubuntu-latest
+    if: ${{ github.event.inputs.logLevel == "debug" }}
     steps:
       - run: |
           echo "Log level: $LEVEL"
