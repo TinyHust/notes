@@ -1,9 +1,22 @@
 name: tests-auth
 
 on:
-  # pull_request:
-  #   paths:
-  #     - "examples/microservices/auth/**"
+  pull_request:
+    paths:
+      - "examples/microservices/auth/**"
+      - ".github/workflows/tests-auth.yml"
+
+  # workflow_dispatch:
+  #   inputs:
+  #     logLevel:
+  #       description: 'Log level'
+  #       required: true
+  #       default: 'warning'
+  #       type: choice
+  #       options:
+  #       - info
+  #       - warning
+  #       - debug
 
 jobs:
   build-auth:
