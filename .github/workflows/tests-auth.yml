@@ -1,9 +1,9 @@
 name: tests-auth
 
 on:
-  pull_request:
-    paths:
-      - "examples/microservices/auth/**"
+  # pull_request:
+  #   paths:
+  #     - "examples/microservices/auth/**"
 
 jobs:
   build-auth:
