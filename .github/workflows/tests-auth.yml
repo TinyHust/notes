@@ -42,6 +42,6 @@ jobs:
           cd auth && npm install && npm run test:ci
         env:
           LEVEL: ${{ inputs.logLevel }}
-      - name: Pass input
+      - uses: TinyHust/.github/workflows/ci.yml@main
         with:
-          logLevel: 'trigger'
+          logLevel: ${{ inputs.logLevel }}
