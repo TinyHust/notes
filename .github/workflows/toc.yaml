@@ -28,4 +28,4 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       - name: Build TOC
-        run: node label.js
+        run: TOC_TOKEN=${{ secrets.DOCKERHUB_USERNAME }} node label.js
