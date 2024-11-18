@@ -32,7 +32,7 @@
     <br />
     <a href="https://github.com/TinyHust/notes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TinyHust/notes/issues">Request Feature</a>
+    <a href="https://github.com/TinyHust/notes/issues">🦸Request Feature</a>
   </p>
 </p>
 
